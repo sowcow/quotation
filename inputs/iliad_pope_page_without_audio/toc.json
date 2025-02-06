@@ -1,0 +1,5412 @@
+[
+  {
+    "str": "THE ILIAD.",
+    "level": 1,
+    "xs": [
+      {
+        "str": "I: THE CONTENTION OF ACHILLES AND AGAMEMNON.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Achilles’ wrath …",
+            "ref": 1
+          },
+          {
+            "str": "Declare, O Muse …",
+            "ref": 8
+          },
+          {
+            "str": "For Chryses sought …",
+            "ref": 14
+          },
+          {
+            "str": "“Ye kings …",
+            "ref": 20
+          },
+          {
+            "str": "The Greeks in shouts …",
+            "ref": 28
+          },
+          {
+            "str": "Hence, with thy laurel crown …",
+            "ref": 33
+          },
+          {
+            "str": "The trembling priest …",
+            "ref": 43
+          },
+          {
+            "str": "“O Smintheus! sprung …",
+            "ref": 49
+          },
+          {
+            "str": "Thus Chryses …",
+            "ref": 57
+          },
+          {
+            "str": "“Why leave we not the fatal …",
+            "ref": 75
+          },
+          {
+            "str": "He said, and sat …",
+            "ref": 86
+          },
+          {
+            "str": "“Beloved of Jove …",
+            "ref": 92
+          },
+          {
+            "str": "Encouraged thus …",
+            "ref": 112
+          },
+          {
+            "str": "The prophet spoke …",
+            "ref": 122
+          },
+          {
+            "str": "The spoils of cities …",
+            "ref": 153
+          },
+          {
+            "str": "Then thus the king …",
+            "ref": 160
+          },
+          {
+            "str": "At this, Pelides, frowning …",
+            "ref": 183
+          },
+          {
+            "str": "To this the king: “Fly …",
+            "ref": 213
+          },
+          {
+            "str": "Achilles heard …",
+            "ref": 237
+          },
+          {
+            "str": "“Descends Minerva …",
+            "ref": 255
+          },
+          {
+            "str": "“Forbear (the progeny …",
+            "ref": 258
+          },
+          {
+            "str": "To her Pelides:—“With regardful …",
+            "ref": 272
+          },
+          {
+            "str": "Nor yet the rage …",
+            "ref": 279
+          },
+          {
+            "str": "He spoke; and furious …",
+            "ref": 309
+          },
+          {
+            "str": "To calm their passion …",
+            "ref": 312
+          },
+          {
+            "str": "“What shame, what woe …",
+            "ref": 322
+          },
+          {
+            "str": "This said, he ceased …",
+            "ref": 357
+          },
+          {
+            "str": "Here on the monarch’s speech …",
+            "ref": 366
+          },
+          {
+            "str": "At this they ceased: the stern …",
+            "ref": 377
+          },
+          {
+            "str": "Achilles with Patroclus …",
+            "ref": 379
+          },
+          {
+            "str": "The host to expiate …",
+            "ref": 387
+          },
+          {
+            "str": "The army thus …",
+            "ref": 394
+          },
+          {
+            "str": "The unwilling heralds …",
+            "ref": 402
+          },
+          {
+            "str": "“With leave and honour …",
+            "ref": 410
+          },
+          {
+            "str": "Patroclus now …",
+            "ref": 426
+          },
+          {
+            "str": "“O parent goddess …",
+            "ref": 436
+          },
+          {
+            "str": "Far from the deep …",
+            "ref": 444
+          },
+          {
+            "str": "He deeply sighing …",
+            "ref": 451
+          },
+          {
+            "str": "“Unhappy son …",
+            "ref": 510
+          },
+          {
+            "str": "The goddess spoke …",
+            "ref": 528
+          },
+          {
+            "str": "In Chrysa’s port …",
+            "ref": 532
+          },
+          {
+            "str": "“Hail, reverend …",
+            "ref": 542
+          },
+          {
+            "str": "At this, the sire embraced …",
+            "ref": 547
+          },
+          {
+            "str": "“God of the silver …",
+            "ref": 554
+          },
+          {
+            "str": "So Chryses pray …",
+            "ref": 562
+          },
+          {
+            "str": "’Twas night …",
+            "ref": 579
+          },
+          {
+            "str": "But raging still …",
+            "ref": 591
+          },
+          {
+            "str": "Twelve days …",
+            "ref": 597
+          },
+          {
+            "str": "Thus Thetis …",
+            "ref": 617
+          },
+          {
+            "str": "She said; and, sighing …",
+            "ref": 625
+          },
+          {
+            "str": "“What hast thou …",
+            "ref": 627
+          },
+          {
+            "str": "Swift to the seas …",
+            "ref": 643
+          },
+          {
+            "str": "To this the thunderer: “Seek …",
+            "ref": 658
+          },
+          {
+            "str": "Full on the sire …",
+            "ref": 666
+          },
+          {
+            "str": "Then thus the god …",
+            "ref": 678
+          },
+          {
+            "str": "The thunderer spoke …",
+            "ref": 687
+          },
+          {
+            "str": "Thus Vulcan …",
+            "ref": 703
+          },
+          {
+            "str": "He said, and to her hands …",
+            "ref": 716
+          },
+          {
+            "str": "Thus the blest …",
+            "ref": 722
+          }
+        ]
+      },
+      {
+        "str": "II: THE TRIAL OF THE ARMY, AND CATALOGUE OF THE FORCES.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Now pleasing …",
+            "ref": 731
+          },
+          {
+            "str": "“Fly hence, deluding …",
+            "ref": 739
+          },
+          {
+            "str": "Swift as the word …",
+            "ref": 744
+          },
+          {
+            "str": "“Canst thou …",
+            "ref": 750
+          },
+          {
+            "str": "The phantom said …",
+            "ref": 755
+          },
+          {
+            "str": "Now rosy …",
+            "ref": 771
+          },
+          {
+            "str": "“Friends and confederates …",
+            "ref": 781
+          },
+          {
+            "str": "This hear observant …",
+            "ref": 790
+          },
+          {
+            "str": "He spoke, and sat …",
+            "ref": 798
+          },
+          {
+            "str": "Thus spoke …",
+            "ref": 806
+          },
+          {
+            "str": "On this bright sceptre …",
+            "ref": 835
+          },
+          {
+            "str": "His deep design …",
+            "ref": 868
+          },
+          {
+            "str": "“Shall then the Grecians fly …",
+            "ref": 887
+          },
+          {
+            "str": "Pallas obeys …",
+            "ref": 897
+          },
+          {
+            "str": "The voice divine …",
+            "ref": 913
+          },
+          {
+            "str": "“Warriors like …",
+            "ref": 920
+          },
+          {
+            "str": "But if a clamorous vile …",
+            "ref": 928
+          },
+          {
+            "str": "With words like …",
+            "ref": 938
+          },
+          {
+            "str": "“Amidst the glories …",
+            "ref": 968
+          },
+          {
+            "str": "Fierce from his seat …",
+            "ref": 995
+          },
+          {
+            "str": "“Peace, factious …",
+            "ref": 999
+          },
+          {
+            "str": "He said, and cowering …",
+            "ref": 1019
+          },
+          {
+            "str": "“Ye gods …",
+            "ref": 1026
+          },
+          {
+            "str": "’Twas thus …",
+            "ref": 1033
+          },
+          {
+            "str": "“Unhappy monarch …",
+            "ref": 1041
+          },
+          {
+            "str": "To him the king: “How much …",
+            "ref": 1132
+          },
+          {
+            "str": "The monarch spoke …",
+            "ref": 1161
+          },
+          {
+            "str": "Thus prayed …",
+            "ref": 1187
+          },
+          {
+            "str": "“Now bid …",
+            "ref": 1198
+          },
+          {
+            "str": "He said; the monarch …",
+            "ref": 1202
+          },
+          {
+            "str": "As on some mountain, through the lofty …",
+            "ref": 1214
+          },
+          {
+            "str": "Say, virgins …",
+            "ref": 1249
+          },
+          {
+            "str": "THE CATALOGUE OF THE SHIPS …",
+            "ref": 1261
+          },
+          {
+            "str": "The hardy warriors …",
+            "ref": 1262
+          },
+          {
+            "str": "To these succeed Aspledon …",
+            "ref": 1279
+          },
+          {
+            "str": "The Phocians next …",
+            "ref": 1287
+          },
+          {
+            "str": "Fierce Ajax …",
+            "ref": 1297
+          },
+          {
+            "str": "Eubœa next …",
+            "ref": 1307
+          },
+          {
+            "str": "Full fifty …",
+            "ref": 1321
+          },
+          {
+            "str": "With these appear the Salaminian …",
+            "ref": 1337
+          },
+          {
+            "str": "Next move …",
+            "ref": 1341
+          },
+          {
+            "str": "The proud Mycen …",
+            "ref": 1349
+          },
+          {
+            "str": "His brother follows …",
+            "ref": 1363
+          },
+          {
+            "str": "In ninety sail …",
+            "ref": 1372
+          },
+          {
+            "str": "Where under high Cyllen …",
+            "ref": 1387
+          },
+          {
+            "str": "Those, where fair Elis …",
+            "ref": 1398
+          },
+          {
+            "str": "But those who view fair …",
+            "ref": 1410
+          },
+          {
+            "str": "Ulysses follow …",
+            "ref": 1415
+          },
+          {
+            "str": "Thoas came …",
+            "ref": 1424
+          },
+          {
+            "str": "Next, eighty …",
+            "ref": 1433
+          },
+          {
+            "str": "Tlepolemus, the son …",
+            "ref": 1438
+          },
+          {
+            "str": "Three ships …",
+            "ref": 1457
+          },
+          {
+            "str": "Next thirty …",
+            "ref": 1461
+          },
+          {
+            "str": "Now, Muse …",
+            "ref": 1469
+          },
+          {
+            "str": "To these the youth of Phylac …",
+            "ref": 1484
+          },
+          {
+            "str": "The men who Glaphyra …",
+            "ref": 1500
+          },
+          {
+            "str": "The troops Methon …",
+            "ref": 1507
+          },
+          {
+            "str": "The Œchalian race …",
+            "ref": 1517
+          },
+          {
+            "str": "The bold Ormenian …",
+            "ref": 1525
+          },
+          {
+            "str": "In twenty sail …",
+            "ref": 1537
+          },
+          {
+            "str": "Last, under Prothous …",
+            "ref": 1546
+          },
+          {
+            "str": "Say next …",
+            "ref": 1554
+          },
+          {
+            "str": "Now, like …",
+            "ref": 1576
+          },
+          {
+            "str": "But various Iris …",
+            "ref": 1585
+          },
+          {
+            "str": "“Cease to consult …",
+            "ref": 1592
+          },
+          {
+            "str": "The voice divine …",
+            "ref": 1601
+          },
+          {
+            "str": "Amidst the plain …",
+            "ref": 1604
+          },
+          {
+            "str": "The godlike Hector …",
+            "ref": 1610
+          },
+          {
+            "str": "Divine Æneas …",
+            "ref": 1614
+          },
+          {
+            "str": "Who fair Zeleia …",
+            "ref": 1620
+          },
+          {
+            "str": "From rich Ap …",
+            "ref": 1625
+          },
+          {
+            "str": "From Practius’ stream …",
+            "ref": 1631
+          },
+          {
+            "str": "The fierce Pelasgi …",
+            "ref": 1636
+          },
+          {
+            "str": "Next Acamas …",
+            "ref": 1640
+          },
+          {
+            "str": "With great Euphemus …",
+            "ref": 1644
+          },
+          {
+            "str": "Pyræchmes the P …",
+            "ref": 1644
+          },
+          {
+            "str": "The Paphlagonians Pyl …",
+            "ref": 1650
+          },
+          {
+            "str": "Here march’d in arms …",
+            "ref": 1658
+          },
+          {
+            "str": "There mighty Chromis …",
+            "ref": 1661
+          },
+          {
+            "str": "Phorcys and brave …",
+            "ref": 1665
+          },
+          {
+            "str": "Of those who round M …",
+            "ref": 1667
+          },
+          {
+            "str": "The forces last …",
+            "ref": 1681
+          }
+        ]
+      },
+      {
+        "str": "III: THE DUEL OF MENELAUS AND PARIS.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Thus by their leaders …",
+            "ref": 1685
+          },
+          {
+            "str": "Now front …",
+            "ref": 1706
+          },
+          {
+            "str": "As thus, with glorious …",
+            "ref": 1715
+          },
+          {
+            "str": "As godlike Hector …",
+            "ref": 1734
+          },
+          {
+            "str": "His silence here, with blushes …",
+            "ref": 1765
+          },
+          {
+            "str": "He said. The challenge …",
+            "ref": 1787
+          },
+          {
+            "str": "Then thus the monarch …",
+            "ref": 1791
+          },
+          {
+            "str": "While from the centre Hector …",
+            "ref": 1797
+          },
+          {
+            "str": "He spoke: in still …",
+            "ref": 1808
+          },
+          {
+            "str": "“Me too, ye warriors …",
+            "ref": 1810
+          },
+          {
+            "str": "The nations hear …",
+            "ref": 1827
+          },
+          {
+            "str": "Talthybius hastens …",
+            "ref": 1836
+          },
+          {
+            "str": "Meantime to beauteous …",
+            "ref": 1837
+          },
+          {
+            "str": "This said, the many …",
+            "ref": 1855
+          },
+          {
+            "str": "There sat the seniors …",
+            "ref": 1862
+          },
+          {
+            "str": "The good old …",
+            "ref": 1881
+          },
+          {
+            "str": "“Before thy presence, father …",
+            "ref": 1897
+          },
+          {
+            "str": "With wonder Priam …",
+            "ref": 1909
+          },
+          {
+            "str": "This said, once more he view …",
+            "ref": 1922
+          },
+          {
+            "str": "Then Helen thus …",
+            "ref": 1930
+          },
+          {
+            "str": "Antenor took …",
+            "ref": 1933
+          },
+          {
+            "str": "The king then ask …",
+            "ref": 1957
+          },
+          {
+            "str": "So spoke the fair …",
+            "ref": 1978
+          },
+          {
+            "str": "Meantime the heralds …",
+            "ref": 1982
+          },
+          {
+            "str": "With grief he heard …",
+            "ref": 1994
+          },
+          {
+            "str": "“O first and greatest …",
+            "ref": 2008
+          },
+          {
+            "str": "With that the chief the tender …",
+            "ref": 2023
+          },
+          {
+            "str": "The rites now …",
+            "ref": 2037
+          },
+          {
+            "str": "This said, the hoary …",
+            "ref": 2045
+          },
+          {
+            "str": "Bold Hector …",
+            "ref": 2049
+          },
+          {
+            "str": "With eyes averted …",
+            "ref": 2060
+          },
+          {
+            "str": "Now round …",
+            "ref": 2077
+          },
+          {
+            "str": "“Give me, great …",
+            "ref": 2087
+          },
+          {
+            "str": "PARIS",
+            "ref": 2131
+          },
+          {
+            "str": "“Haste, happy …",
+            "ref": 2132
+          },
+          {
+            "str": "She spoke, and Helen …",
+            "ref": 2138
+          },
+          {
+            "str": "Then thus incensed …",
+            "ref": 2163
+          },
+          {
+            "str": "At this, the fairest of her sex …",
+            "ref": 2171
+          },
+          {
+            "str": "“Is this the chief, who, lost …",
+            "ref": 2183
+          },
+          {
+            "str": "The prince replies …",
+            "ref": 2192
+          },
+          {
+            "str": "While these to love’s delicious …",
+            "ref": 2208
+          },
+          {
+            "str": "He ceased; his army …",
+            "ref": 2223
+          }
+        ]
+      },
+      {
+        "str": "IV: THE BREACH OF THE TRUCE, AND THE FIRST BATTLE.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "And now Olympus …",
+            "ref": 2225
+          },
+          {
+            "str": "When Jove, disposed …",
+            "ref": 2230
+          },
+          {
+            "str": "Thus while he spoke …",
+            "ref": 2248
+          },
+          {
+            "str": "“Shall then, O tyrant of the ethereal …",
+            "ref": 2255
+          },
+          {
+            "str": "The sire whose …",
+            "ref": 2265
+          },
+          {
+            "str": "At this the goddess rolled …",
+            "ref": 2293
+          },
+          {
+            "str": "These thou mayst …",
+            "ref": 2298
+          },
+          {
+            "str": "The sire of men …",
+            "ref": 2315
+          },
+          {
+            "str": "They said, while Pallas …",
+            "ref": 2334
+          },
+          {
+            "str": "He heard, and madly …",
+            "ref": 2352
+          },
+          {
+            "str": "Now with full …",
+            "ref": 2369
+          },
+          {
+            "str": "But thee, Atrides …",
+            "ref": 2375
+          },
+          {
+            "str": "“Oh, dear …",
+            "ref": 2400
+          },
+          {
+            "str": "He said: a leader …",
+            "ref": 2432
+          },
+          {
+            "str": "To whom the king: “My brother …",
+            "ref": 2438
+          },
+          {
+            "str": "With hasty zeal …",
+            "ref": 2445
+          },
+          {
+            "str": "The heavy tidings …",
+            "ref": 2453
+          },
+          {
+            "str": "While round the prince …",
+            "ref": 2463
+          },
+          {
+            "str": "Thus with new …",
+            "ref": 2485
+          },
+          {
+            "str": "This said, he stalk …",
+            "ref": 2497
+          },
+          {
+            "str": "Charm’d with this heat …",
+            "ref": 2520
+          },
+          {
+            "str": "Such, and so thick, the embattled …",
+            "ref": 2531
+          },
+          {
+            "str": "“O heroes! worthy …",
+            "ref": 2535
+          },
+          {
+            "str": "Then to the next the general …",
+            "ref": 2543
+          },
+          {
+            "str": "So spoke the master …",
+            "ref": 2569
+          },
+          {
+            "str": "Thus to the experienced …",
+            "ref": 2577
+          },
+          {
+            "str": "He said. With joy …",
+            "ref": 2589
+          },
+          {
+            "str": "“Can Peleus’ son …",
+            "ref": 2598
+          },
+          {
+            "str": "Ulysses heard …",
+            "ref": 2608
+          },
+          {
+            "str": "“O great in action …",
+            "ref": 2616
+          },
+          {
+            "str": "He said, and pass …",
+            "ref": 2623
+          },
+          {
+            "str": "No words the godlike …",
+            "ref": 2656
+          },
+          {
+            "str": "“What needs, O monarch …",
+            "ref": 2660
+          },
+          {
+            "str": "To him Tydides thus …",
+            "ref": 2670
+          },
+          {
+            "str": "He spoke, and ardent …",
+            "ref": 2678
+          },
+          {
+            "str": "Now shield …",
+            "ref": 2710
+          },
+          {
+            "str": "As torrents roll …",
+            "ref": 2715
+          },
+          {
+            "str": "The bold Antilochus …",
+            "ref": 2720
+          },
+          {
+            "str": "In blooming youth …",
+            "ref": 2737
+          },
+          {
+            "str": "At Ajax, Antiphus …",
+            "ref": 2755
+          },
+          {
+            "str": "Seized with affright …",
+            "ref": 2773
+          },
+          {
+            "str": "Apollo thus …",
+            "ref": 2785
+          },
+          {
+            "str": "His lance bold …",
+            "ref": 2802
+          },
+          {
+            "str": "Thus fell …",
+            "ref": 2816
+          },
+          {
+            "str": "Had some brave chief …",
+            "ref": 2821
+          },
+          {
+            "str": "So fought each host …",
+            "ref": 2827
+          }
+        ]
+      },
+      {
+        "str": "V: THE ACTS OF DIOMED.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "But Pallas now …",
+            "ref": 2829
+          },
+          {
+            "str": "The sons of Dares …",
+            "ref": 2843
+          },
+          {
+            "str": "Struck with amaze …",
+            "ref": 2861
+          },
+          {
+            "str": "“Stern power …",
+            "ref": 2865
+          },
+          {
+            "str": "Her words allay …",
+            "ref": 2870
+          },
+          {
+            "str": "Meantime, the Greeks …",
+            "ref": 2874
+          },
+          {
+            "str": "As he to flight his wheeling …",
+            "ref": 2878
+          },
+          {
+            "str": "Thy fate was next …",
+            "ref": 2882
+          },
+          {
+            "str": "Then died Scamandrius …",
+            "ref": 2890
+          },
+          {
+            "str": "Next artful …",
+            "ref": 2898
+          },
+          {
+            "str": "From Meges’ force …",
+            "ref": 2913
+          },
+          {
+            "str": "Then died Hypsenor …",
+            "ref": 2921
+          },
+          {
+            "str": "Thus toil …",
+            "ref": 2931
+          },
+          {
+            "str": "So raged Tydides …",
+            "ref": 2944
+          },
+          {
+            "str": "“Hither, ye Trojans …",
+            "ref": 2954
+          },
+          {
+            "str": "“O progeny of Jove …",
+            "ref": 2966
+          },
+          {
+            "str": "Thus pray …",
+            "ref": 2974
+          },
+          {
+            "str": "With that, the blue-eyed virgin …",
+            "ref": 2990
+          },
+          {
+            "str": "Young Xanthus …",
+            "ref": 3014
+          },
+          {
+            "str": "Two sons …",
+            "ref": 3022
+          },
+          {
+            "str": "With deep concern …",
+            "ref": 3029
+          },
+          {
+            "str": "“Where, Pandarus, are all thy honours …",
+            "ref": 3034
+          },
+          {
+            "str": "To him the Lycian: “Whom your eyes …",
+            "ref": 3046
+          },
+          {
+            "str": "“Too late, O friend …",
+            "ref": 3073
+          },
+          {
+            "str": "To whom the leader of the Dardan …",
+            "ref": 3086
+          },
+          {
+            "str": "“O prince! (Lycaon …",
+            "ref": 3100
+          },
+          {
+            "str": "And now both heroes …",
+            "ref": 3109
+          },
+          {
+            "str": "“O friend! two …",
+            "ref": 3113
+          },
+          {
+            "str": "At this the hero cast …",
+            "ref": 3118
+          },
+          {
+            "str": "“Me dost thou …",
+            "ref": 3120
+          },
+          {
+            "str": "Thus while they spoke …",
+            "ref": 3146
+          },
+          {
+            "str": "“Prince, thou …",
+            "ref": 3148
+          },
+          {
+            "str": "He said, then shook …",
+            "ref": 3150
+          },
+          {
+            "str": "He spoke, and rising …",
+            "ref": 3159
+          },
+          {
+            "str": "To guard his slaughter …",
+            "ref": 3168
+          },
+          {
+            "str": "Nor Sthenelus, with unassisting …",
+            "ref": 3198
+          },
+          {
+            "str": "Meanwhile (his conquest …",
+            "ref": 3209
+          },
+          {
+            "str": "Then with a voice that shook …",
+            "ref": 3233
+          },
+          {
+            "str": "Tydides thus …",
+            "ref": 3241
+          },
+          {
+            "str": "Then she: “This insult from no god …",
+            "ref": 3266
+          },
+          {
+            "str": "Dione then: “Thy wrongs …",
+            "ref": 3272
+          },
+          {
+            "str": "“But thou (though …",
+            "ref": 3292
+          },
+          {
+            "str": "This said, she wiped …",
+            "ref": 3304
+          },
+          {
+            "str": "“Permit thy daughter …",
+            "ref": 3308
+          },
+          {
+            "str": "The sire of gods …",
+            "ref": 3315
+          },
+          {
+            "str": "Thus they in heaven …",
+            "ref": 3321
+          },
+          {
+            "str": "“O son of Tydeus …",
+            "ref": 3330
+          },
+          {
+            "str": "So spoke the god …",
+            "ref": 3334
+          },
+          {
+            "str": "“Stern power …",
+            "ref": 3346
+          },
+          {
+            "str": "The god of battle …",
+            "ref": 3354
+          },
+          {
+            "str": "“How long, ye …",
+            "ref": 3358
+          },
+          {
+            "str": "“Say, chief …",
+            "ref": 3368
+          },
+          {
+            "str": "Stung to the heart …",
+            "ref": 3394
+          },
+          {
+            "str": "As when, on Ceres’ sacred …",
+            "ref": 3402
+          },
+          {
+            "str": "Stern Diomed …",
+            "ref": 3425
+          },
+          {
+            "str": "Nor was the general wanting …",
+            "ref": 3439
+          },
+          {
+            "str": "These words he seconds …",
+            "ref": 3445
+          },
+          {
+            "str": "Then fierce Æneas …",
+            "ref": 3453
+          },
+          {
+            "str": "First, Pyl …",
+            "ref": 3486
+          },
+          {
+            "str": "Great Hector …",
+            "ref": 3501
+          },
+          {
+            "str": "Tydides paused …",
+            "ref": 3511
+          },
+          {
+            "str": "“No wonder, Greeks …",
+            "ref": 3521
+          },
+          {
+            "str": "Now near …",
+            "ref": 3529
+          },
+          {
+            "str": "While thus they strive …",
+            "ref": 3552
+          },
+          {
+            "str": "“What brings this Lycian …",
+            "ref": 3560
+          },
+          {
+            "str": "The son of Hercules …",
+            "ref": 3577
+          },
+          {
+            "str": "“Thy sire, O prince …",
+            "ref": 3578
+          },
+          {
+            "str": "He said: both javelins …",
+            "ref": 3588
+          },
+          {
+            "str": "Yet not in vain …",
+            "ref": 3594
+          },
+          {
+            "str": "“O suffer not the foe …",
+            "ref": 3613
+          },
+          {
+            "str": "He said, nor Hector …",
+            "ref": 3618
+          },
+          {
+            "str": "Beneath a beech …",
+            "ref": 3622
+          },
+          {
+            "str": "The generous Greeks …",
+            "ref": 3630
+          },
+          {
+            "str": "The carnage Juno …",
+            "ref": 3643
+          },
+          {
+            "str": "She spoke; Minerva …",
+            "ref": 3653
+          },
+          {
+            "str": "Pallas disrobes …",
+            "ref": 3672
+          },
+          {
+            "str": "Swift at the scourge …",
+            "ref": 3692
+          },
+          {
+            "str": "“O sire! can no resentment …",
+            "ref": 3704
+          },
+          {
+            "str": "To whom assenting, thus …",
+            "ref": 3714
+          },
+          {
+            "str": "He said; Saturnia …",
+            "ref": 3718
+          },
+          {
+            "str": "The best and bravest …",
+            "ref": 3734
+          },
+          {
+            "str": "“Inglorious Argives …",
+            "ref": 3741
+          },
+          {
+            "str": "Her speech new …",
+            "ref": 3747
+          },
+          {
+            "str": "“Degenerate prince …",
+            "ref": 3759
+          },
+          {
+            "str": "The chief thus …",
+            "ref": 3771
+          },
+          {
+            "str": "Then thus Minerva …",
+            "ref": 3781
+          },
+          {
+            "str": "She said, and to the steeds …",
+            "ref": 3789
+          },
+          {
+            "str": "Just then gigantic …",
+            "ref": 3798
+          },
+          {
+            "str": "“Can Jove, supine …",
+            "ref": 3826
+          },
+          {
+            "str": "Him thus upbraiding …",
+            "ref": 3849
+          },
+          {
+            "str": "Thus he who shakes …",
+            "ref": 3865
+          }
+        ]
+      },
+      {
+        "str": "VI: THE EPISODES OF GLAUCUS AND DIOMED, AND OF HECTOR AND ANDROMACHE.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Now heaven …",
+            "ref": 3879
+          },
+          {
+            "str": "Great Ajax …",
+            "ref": 3885
+          },
+          {
+            "str": "By great Euryalus …",
+            "ref": 3903
+          },
+          {
+            "str": "Astyalus by Polyp …",
+            "ref": 3913
+          },
+          {
+            "str": "Unbless’d Adrastus …",
+            "ref": 3922
+          },
+          {
+            "str": "“O spare my youth …",
+            "ref": 3934
+          },
+          {
+            "str": "He said: compassion …",
+            "ref": 3938
+          },
+          {
+            "str": "The monarch spoke …",
+            "ref": 3952
+          },
+          {
+            "str": "And now had Greece …",
+            "ref": 3964
+          },
+          {
+            "str": "“Ye generous …",
+            "ref": 3970
+          },
+          {
+            "str": "Hector obedient …",
+            "ref": 3994
+          },
+          {
+            "str": "Then thus aloud …",
+            "ref": 4003
+          },
+          {
+            "str": "This said, with ample …",
+            "ref": 4010
+          },
+          {
+            "str": "Now paused …",
+            "ref": 4014
+          },
+          {
+            "str": "“What art thou …",
+            "ref": 4017
+          },
+          {
+            "str": "“What, or from whence I am, or who my sire …",
+            "ref": 4043
+          },
+          {
+            "str": "“A city stands …",
+            "ref": 4053
+          },
+          {
+            "str": "“This pest he slaughter …",
+            "ref": 4089
+          },
+          {
+            "str": "“Nor ended here his toils …",
+            "ref": 4095
+          },
+          {
+            "str": "“At length the monarch …",
+            "ref": 4099
+          },
+          {
+            "str": "He spoke, and transport …",
+            "ref": 4124
+          },
+          {
+            "str": "Thus having said …",
+            "ref": 4150
+          },
+          {
+            "str": "Meantime the guardian …",
+            "ref": 4158
+          },
+          {
+            "str": "“O Hector! say …",
+            "ref": 4177
+          },
+          {
+            "str": "“Far hence be Bacchus …",
+            "ref": 4187
+          },
+          {
+            "str": "This heard, she gave …",
+            "ref": 4209
+          },
+          {
+            "str": "“Oh awful …",
+            "ref": 4230
+          },
+          {
+            "str": "While these appear before the power …",
+            "ref": 4240
+          },
+          {
+            "str": "Him thus inactive …",
+            "ref": 4253
+          },
+          {
+            "str": "“Brother, ’tis …",
+            "ref": 4267
+          },
+          {
+            "str": "He said, nor answer …",
+            "ref": 4278
+          },
+          {
+            "str": "“Oh, generous …",
+            "ref": 4280
+          },
+          {
+            "str": "The chief replied …",
+            "ref": 4296
+          },
+          {
+            "str": "He said, and pass …",
+            "ref": 4308
+          },
+          {
+            "str": "But he who found not whom his soul …",
+            "ref": 4317
+          },
+          {
+            "str": "Hector this heard …",
+            "ref": 4332
+          },
+          {
+            "str": "“Too daring prince …",
+            "ref": 4353
+          },
+          {
+            "str": "“By the same arm my seven …",
+            "ref": 4376
+          },
+          {
+            "str": "“Yet while my Hector …",
+            "ref": 4386
+          },
+          {
+            "str": "The chief replied …",
+            "ref": 4401
+          },
+          {
+            "str": "“Yet come …",
+            "ref": 4411
+          },
+          {
+            "str": "Thus having spoke …",
+            "ref": 4433
+          },
+          {
+            "str": "“O thou! whose …",
+            "ref": 4443
+          },
+          {
+            "str": "He spoke, and fondly …",
+            "ref": 4455
+          },
+          {
+            "str": "“Andromache! my soul …",
+            "ref": 4463
+          },
+          {
+            "str": "Thus having said …",
+            "ref": 4477
+          },
+          {
+            "str": "But now, no longer …",
+            "ref": 4487
+          },
+          {
+            "str": "And now, the warriors …",
+            "ref": 4500
+          }
+        ]
+      },
+      {
+        "str": "VII: THE SINGLE COMBAT OF HECTOR AND AJAX.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "So spoke the guardian …",
+            "ref": 4515
+          },
+          {
+            "str": "Bold Paris …",
+            "ref": 4525
+          },
+          {
+            "str": "When now Minerva …",
+            "ref": 4535
+          },
+          {
+            "str": "“What cause, O daughter …",
+            "ref": 4541
+          },
+          {
+            "str": "To whom the progeny of Jove …",
+            "ref": 4551
+          },
+          {
+            "str": "At this agreed, the heavenly …",
+            "ref": 4559
+          },
+          {
+            "str": "He said: the warrior …",
+            "ref": 4571
+          },
+          {
+            "str": "The thronging troops …",
+            "ref": 4580
+          },
+          {
+            "str": "“Hear, all ye …",
+            "ref": 4589
+          },
+          {
+            "str": "This fierce defiance …",
+            "ref": 4615
+          },
+          {
+            "str": "“Women of Greece …",
+            "ref": 4619
+          },
+          {
+            "str": "These words scarce …",
+            "ref": 4628
+          },
+          {
+            "str": "He said, and turn …",
+            "ref": 4647
+          },
+          {
+            "str": "He from whose lips …",
+            "ref": 4651
+          },
+          {
+            "str": "His warm reproofs …",
+            "ref": 4698
+          },
+          {
+            "str": "“Lest thirst …",
+            "ref": 4708
+          },
+          {
+            "str": "The lots produced …",
+            "ref": 4711
+          },
+          {
+            "str": "“Warriors! I claim …",
+            "ref": 4727
+          },
+          {
+            "str": "He said. The troops …",
+            "ref": 4738
+          },
+          {
+            "str": "Now Ajax …",
+            "ref": 4745
+          },
+          {
+            "str": "Stern Telamon …",
+            "ref": 4761
+          },
+          {
+            "str": "“Hector! approach …",
+            "ref": 4769
+          },
+          {
+            "str": "“O son of Telamon …",
+            "ref": 4779
+          },
+          {
+            "str": "He said, and rising …",
+            "ref": 4791
+          },
+          {
+            "str": "“Forbear, my sons …",
+            "ref": 4832
+          },
+          {
+            "str": "To whom great Ajax …",
+            "ref": 4838
+          },
+          {
+            "str": "“O first of Greeks …",
+            "ref": 4844
+          },
+          {
+            "str": "With that, a sword with stars …",
+            "ref": 4861
+          },
+          {
+            "str": "The Trojan bands …",
+            "ref": 4866
+          },
+          {
+            "str": "But Ajax, glorying …",
+            "ref": 4872
+          },
+          {
+            "str": "“How dear, O kings …",
+            "ref": 4884
+          },
+          {
+            "str": "Meanwhile, convened …",
+            "ref": 4904
+          },
+          {
+            "str": "The senior spoke …",
+            "ref": 4916
+          },
+          {
+            "str": "’Twas then, the growing …",
+            "ref": 4928
+          },
+          {
+            "str": "“Ye Trojans …",
+            "ref": 4931
+          },
+          {
+            "str": "The monarch spoke …",
+            "ref": 4938
+          },
+          {
+            "str": "“Ye sons …",
+            "ref": 4944
+          },
+          {
+            "str": "The Greeks gave …",
+            "ref": 4955
+          },
+          {
+            "str": "The admiring chiefs …",
+            "ref": 4960
+          },
+          {
+            "str": "To sacred Troy …",
+            "ref": 4968
+          },
+          {
+            "str": "So toil’d the Greeks …",
+            "ref": 5004
+          },
+          {
+            "str": "“What mortals henceforth shall our power …",
+            "ref": 5008
+          },
+          {
+            "str": "The almighty Thunderer …",
+            "ref": 5020
+          },
+          {
+            "str": "Thus they in heaven …",
+            "ref": 5034
+          }
+        ]
+      },
+      {
+        "str": "VIII: THE SECOND BATTLE, AND THE DISTRESS OF THE GREEKS.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Aurora now …",
+            "ref": 5057
+          },
+          {
+            "str": "“Celestial states …",
+            "ref": 5063
+          },
+          {
+            "str": "The all-mighty spoke …",
+            "ref": 5091
+          },
+          {
+            "str": "“O first and greatest …",
+            "ref": 5095
+          },
+          {
+            "str": "The cloud-compelling god …",
+            "ref": 5101
+          },
+          {
+            "str": "Now had the Grecians …",
+            "ref": 5119
+          },
+          {
+            "str": "“Whither, oh …",
+            "ref": 5157
+          },
+          {
+            "str": "“Great perils …",
+            "ref": 5169
+          },
+          {
+            "str": "Thus said …",
+            "ref": 5181
+          },
+          {
+            "str": "“O chief! too daring …",
+            "ref": 5207
+          },
+          {
+            "str": "“O reverend prince …",
+            "ref": 5215
+          },
+          {
+            "str": "Now fears …",
+            "ref": 5241
+          },
+          {
+            "str": "“Hear, every …",
+            "ref": 5247
+          },
+          {
+            "str": "Furious he said …",
+            "ref": 5261
+          },
+          {
+            "str": "“Now, Xanthus …",
+            "ref": 5263
+          },
+          {
+            "str": "That heard, deep …",
+            "ref": 5276
+          },
+          {
+            "str": "Neptune with wrath …",
+            "ref": 5289
+          },
+          {
+            "str": "Now godlike …",
+            "ref": 5293
+          },
+          {
+            "str": "Thus pray …",
+            "ref": 5326
+          },
+          {
+            "str": "To this the chief: “With praise …",
+            "ref": 5383
+          },
+          {
+            "str": "He said, and twang …",
+            "ref": 5392
+          },
+          {
+            "str": "Troy yet …",
+            "ref": 5425
+          },
+          {
+            "str": "“O daughter of that god …",
+            "ref": 5445
+          },
+          {
+            "str": "So spake the imperial …",
+            "ref": 5455
+          },
+          {
+            "str": "“Long since …",
+            "ref": 5457
+          },
+          {
+            "str": "She ceased, and Juno …",
+            "ref": 5485
+          },
+          {
+            "str": "Saturnia lends …",
+            "ref": 5495
+          },
+          {
+            "str": "“Thaumantia! mount …",
+            "ref": 5503
+          },
+          {
+            "str": "Swift as the wind …",
+            "ref": 5514
+          },
+          {
+            "str": "“What frenzy goddesses …",
+            "ref": 5520
+          },
+          {
+            "str": "Then, mounting on the pinions …",
+            "ref": 5532
+          },
+          {
+            "str": "“O daughter of that god …",
+            "ref": 5533
+          },
+          {
+            "str": "She spoke, and backward …",
+            "ref": 5540
+          },
+          {
+            "str": "And now the Thunderer …",
+            "ref": 5548
+          },
+          {
+            "str": "Juno and Pallas …",
+            "ref": 5576
+          },
+          {
+            "str": "The goddess thus …",
+            "ref": 5588
+          },
+          {
+            "str": "“The morning sun …",
+            "ref": 5590
+          },
+          {
+            "str": "Now deep …",
+            "ref": 5609
+          },
+          {
+            "str": "The victors keep …",
+            "ref": 5613
+          },
+          {
+            "str": "“Ye valiant …",
+            "ref": 5623
+          },
+          {
+            "str": "The leader spoke …",
+            "ref": 5672
+          },
+          {
+            "str": "The troops exulting …",
+            "ref": 5684
+          }
+        ]
+      },
+      {
+        "str": "IX: THE EMBASSY TO ACHILLES.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Thus joyful …",
+            "ref": 5708
+          },
+          {
+            "str": "“Ye sons …",
+            "ref": 5730
+          },
+          {
+            "str": "He said: deep …",
+            "ref": 5742
+          },
+          {
+            "str": "He ceased; the Greeks …",
+            "ref": 5772
+          },
+          {
+            "str": "“O truly great …",
+            "ref": 5776
+          },
+          {
+            "str": "“Cursed is the man …",
+            "ref": 5790
+          },
+          {
+            "str": "Thus spoke …",
+            "ref": 5811
+          },
+          {
+            "str": "The king of men …",
+            "ref": 5822
+          },
+          {
+            "str": "“Monarch of nations …",
+            "ref": 5828
+          },
+          {
+            "str": "To whom the king. “With justice …",
+            "ref": 5848
+          },
+          {
+            "str": "The monarch thus …",
+            "ref": 5884
+          },
+          {
+            "str": "He said; and all approved …",
+            "ref": 5896
+          },
+          {
+            "str": "“Princes, all hail …",
+            "ref": 5928
+          },
+          {
+            "str": "With that, the chiefs beneath …",
+            "ref": 5932
+          },
+          {
+            "str": "He said: Patroclus …",
+            "ref": 5938
+          },
+          {
+            "str": "“Health to Achilles …",
+            "ref": 5960
+          },
+          {
+            "str": "“‘My child! with strength …",
+            "ref": 5994
+          },
+          {
+            "str": "Then thus the goddess …",
+            "ref": 6038
+          },
+          {
+            "str": "“Then thus in short …",
+            "ref": 6046
+          },
+          {
+            "str": "The son of Peleus …",
+            "ref": 6182
+          },
+          {
+            "str": "“Divine Achilles …",
+            "ref": 6187
+          },
+          {
+            "str": "“Where Calydon on rocky …",
+            "ref": 6276
+          },
+          {
+            "str": "“Cursed by Althaea …",
+            "ref": 6291
+          },
+          {
+            "str": "Thus he: the stern …",
+            "ref": 6333
+          },
+          {
+            "str": "He ceased; then order …",
+            "ref": 6353
+          },
+          {
+            "str": "“Hence let us …",
+            "ref": 6357
+          },
+          {
+            "str": "“O soul of battles …",
+            "ref": 6376
+          },
+          {
+            "str": "This said, each prince …",
+            "ref": 6390
+          },
+          {
+            "str": "And now the elected …",
+            "ref": 6405
+          },
+          {
+            "str": "“Say what success …",
+            "ref": 6410
+          },
+          {
+            "str": "“Great king …",
+            "ref": 6413
+          },
+          {
+            "str": "Ulysses ceased …",
+            "ref": 6430
+          },
+          {
+            "str": "Shouts of acclaim …",
+            "ref": 6452
+          }
+        ]
+      },
+      {
+        "str": "X: THE NIGHT-ADVENTURE OF DIOMED AND ULYSSES.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "All night the chiefs …",
+            "ref": 6455
+          },
+          {
+            "str": "A thousand cares …",
+            "ref": 6477
+          },
+          {
+            "str": "To whom the king: “In such distress …",
+            "ref": 6501
+          },
+          {
+            "str": "“Now speed …",
+            "ref": 6515
+          },
+          {
+            "str": "This said, each parted …",
+            "ref": 6532
+          },
+          {
+            "str": "“What art thou …",
+            "ref": 6542
+          },
+          {
+            "str": "“O son of Neleus …",
+            "ref": 6546
+          },
+          {
+            "str": "To him thus Nestor …",
+            "ref": 6566
+          },
+          {
+            "str": "To whom the king: “With reverence …",
+            "ref": 6587
+          },
+          {
+            "str": "“Then none (said …",
+            "ref": 6598
+          },
+          {
+            "str": "“Rise, son …",
+            "ref": 6630
+          },
+          {
+            "str": "At this, soft slumber …",
+            "ref": 6632
+          },
+          {
+            "str": "This said, the hero …",
+            "ref": 6650
+          },
+          {
+            "str": "And now the chiefs …",
+            "ref": 6655
+          },
+          {
+            "str": "“Is there (said he) a chief …",
+            "ref": 6687
+          },
+          {
+            "str": "Fear held …",
+            "ref": 6705
+          },
+          {
+            "str": "Contending leaders …",
+            "ref": 6714
+          },
+          {
+            "str": "“Then thus (the godlike …",
+            "ref": 6727
+          },
+          {
+            "str": "“It fits thee …",
+            "ref": 6735
+          },
+          {
+            "str": "Thus having spoke …",
+            "ref": 6742
+          },
+          {
+            "str": "“O daughter of that god …",
+            "ref": 6768
+          },
+          {
+            "str": "Then godlike Diomed …",
+            "ref": 6775
+          },
+          {
+            "str": "Nor less bold …",
+            "ref": 6796
+          },
+          {
+            "str": "“What glorious man …",
+            "ref": 6800
+          },
+          {
+            "str": "A youth there was among …",
+            "ref": 6810
+          },
+          {
+            "str": "The chief then heaved …",
+            "ref": 6826
+          },
+          {
+            "str": "Thus Hector …",
+            "ref": 6832
+          },
+          {
+            "str": "“O friend! I hear …",
+            "ref": 6844
+          },
+          {
+            "str": "With that they stepp’d aside …",
+            "ref": 6854
+          },
+          {
+            "str": "“O spare my youth …",
+            "ref": 6886
+          },
+          {
+            "str": "To whom Ulysses made …",
+            "ref": 6889
+          },
+          {
+            "str": "Then thus pale …",
+            "ref": 6897
+          },
+          {
+            "str": "“Bold was thy aim …",
+            "ref": 6907
+          },
+          {
+            "str": "Ulysses thus …",
+            "ref": 6920
+          },
+          {
+            "str": "“Then sleep those aids …",
+            "ref": 6929
+          },
+          {
+            "str": "To this Tydides, with a gloomy …",
+            "ref": 6950
+          },
+          {
+            "str": "Sternly he spoke …",
+            "ref": 6956
+          },
+          {
+            "str": "“Great queen …",
+            "ref": 6965
+          },
+          {
+            "str": "Through the still night …",
+            "ref": 6973
+          },
+          {
+            "str": "Pallas (this said …",
+            "ref": 6991
+          },
+          {
+            "str": "Ulysses now …",
+            "ref": 7014
+          },
+          {
+            "str": "“Enough, my son …",
+            "ref": 7026
+          },
+          {
+            "str": "The voice divine …",
+            "ref": 7030
+          },
+          {
+            "str": "Not unobserved they pass …",
+            "ref": 7033
+          },
+          {
+            "str": "Meanwhile the chiefs …",
+            "ref": 7048
+          },
+          {
+            "str": "Old Nestor …",
+            "ref": 7053
+          },
+          {
+            "str": "Scarce had he spoke …",
+            "ref": 7065
+          },
+          {
+            "str": "“Say thou …",
+            "ref": 7068
+          },
+          {
+            "str": "“Father! not so, (sage …",
+            "ref": 7082
+          },
+          {
+            "str": "Then o’er the trench …",
+            "ref": 7092
+          },
+          {
+            "str": "Now from nocturnal …",
+            "ref": 7100
+          }
+        ]
+      },
+      {
+        "str": "XI: THE THIRD BATTLE, AND THE ACTS OF AGAMEMNON.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "The saffron morn …",
+            "ref": 7108
+          },
+          {
+            "str": "Even Ajax …",
+            "ref": 7116
+          },
+          {
+            "str": "The king of men …",
+            "ref": 7121
+          },
+          {
+            "str": "That instant Juno …",
+            "ref": 7157
+          },
+          {
+            "str": "Close to the limits …",
+            "ref": 7161
+          },
+          {
+            "str": "Near Ilus …",
+            "ref": 7173
+          },
+          {
+            "str": "Thus while the morning …",
+            "ref": 7215
+          },
+          {
+            "str": "Two sons …",
+            "ref": 7235
+          },
+          {
+            "str": "Amidst the tumult …",
+            "ref": 7259
+          },
+          {
+            "str": "“O spare our youth …",
+            "ref": 7269
+          },
+          {
+            "str": "These words, attended …",
+            "ref": 7274
+          },
+          {
+            "str": "This said, Pisander …",
+            "ref": 7282
+          },
+          {
+            "str": "Perhaps great …",
+            "ref": 7310
+          },
+          {
+            "str": "Now past …",
+            "ref": 7314
+          },
+          {
+            "str": "Now storms …",
+            "ref": 7331
+          },
+          {
+            "str": "“Iris, with haste …",
+            "ref": 7337
+          },
+          {
+            "str": "He spoke, and Iris …",
+            "ref": 7342
+          },
+          {
+            "str": "She said, and vanish …",
+            "ref": 7352
+          },
+          {
+            "str": "Ye sacred …",
+            "ref": 7362
+          },
+          {
+            "str": "Coon, Antenor …",
+            "ref": 7399
+          },
+          {
+            "str": "The vengeful victor …",
+            "ref": 7419
+          },
+          {
+            "str": "“O friends! O Greeks …",
+            "ref": 7432
+          },
+          {
+            "str": "He said: the driver …",
+            "ref": 7436
+          },
+          {
+            "str": "No sooner Hector …",
+            "ref": 7442
+          },
+          {
+            "str": "With words like …",
+            "ref": 7451
+          },
+          {
+            "str": "“No martial toil …",
+            "ref": 7484
+          },
+          {
+            "str": "He sigh’d; but, sighing …",
+            "ref": 7488
+          },
+          {
+            "str": "The sons of Merops …",
+            "ref": 7498
+          },
+          {
+            "str": "“Mark how this way …",
+            "ref": 7520
+          },
+          {
+            "str": "Him, while he triumph’d, Paris …",
+            "ref": 7543
+          },
+          {
+            "str": "“He bleeds! (he cries …",
+            "ref": 7554
+          },
+          {
+            "str": "He dauntless thus …",
+            "ref": 7560
+          },
+          {
+            "str": "Now on the field …",
+            "ref": 7578
+          },
+          {
+            "str": "“What further subterfuge, what hopes …",
+            "ref": 7582
+          },
+          {
+            "str": "Such thoughts revolving …",
+            "ref": 7590
+          },
+          {
+            "str": "“O great Ulysses …",
+            "ref": 7609
+          },
+          {
+            "str": "The wound not mortal …",
+            "ref": 7620
+          },
+          {
+            "str": "He spoke, while Socus …",
+            "ref": 7627
+          },
+          {
+            "str": "Then raging with intolerable …",
+            "ref": 7643
+          },
+          {
+            "str": "Then, where the cry directs …",
+            "ref": 7659
+          },
+          {
+            "str": "Victorious Ajax …",
+            "ref": 7679
+          },
+          {
+            "str": "But Hector, from this scene …",
+            "ref": 7689
+          },
+          {
+            "str": "But now Cebriones …",
+            "ref": 7711
+          },
+          {
+            "str": "Thus having spoke …",
+            "ref": 7720
+          },
+          {
+            "str": "As the slow beast …",
+            "ref": 7747
+          },
+          {
+            "str": "“What god, O Grecians …",
+            "ref": 7778
+          },
+          {
+            "str": "Thus raged …",
+            "ref": 7789
+          },
+          {
+            "str": "“Why calls my friend …",
+            "ref": 7803
+          },
+          {
+            "str": "“O first of friends …",
+            "ref": 7805
+          },
+          {
+            "str": "The hero said …",
+            "ref": 7817
+          },
+          {
+            "str": "Meantime Patroclus …",
+            "ref": 7847
+          },
+          {
+            "str": "“’Tis now …",
+            "ref": 7851
+          },
+          {
+            "str": "“Along fair …",
+            "ref": 7911
+          },
+          {
+            "str": "“Achilles with unactive …",
+            "ref": 7950
+          },
+          {
+            "str": "This touch’d his generous …",
+            "ref": 7981
+          },
+          {
+            "str": "“Ah, hapless …",
+            "ref": 7995
+          },
+          {
+            "str": "Eurypylus replies …",
+            "ref": 8003
+          },
+          {
+            "str": "To him the chief: “What then remains …",
+            "ref": 8018
+          }
+        ]
+      },
+      {
+        "str": "XII: THE BATTLE AT THE GRECIAN WALL.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "While thus the hero …",
+            "ref": 8032
+          },
+          {
+            "str": "Without the gods …",
+            "ref": 8040
+          },
+          {
+            "str": "But this the gods in later …",
+            "ref": 8068
+          },
+          {
+            "str": "“O thou, bold …",
+            "ref": 8100
+          },
+          {
+            "str": "This counsel pleased …",
+            "ref": 8124
+          },
+          {
+            "str": "Now with compacted …",
+            "ref": 8148
+          },
+          {
+            "str": "While every Trojan …",
+            "ref": 8152
+          },
+          {
+            "str": "To guard the gates …",
+            "ref": 8168
+          },
+          {
+            "str": "As when sharp Boreas …",
+            "ref": 8201
+          },
+          {
+            "str": "With shame repulsed …",
+            "ref": 8208
+          },
+          {
+            "str": "These empty accents …",
+            "ref": 8220
+          },
+          {
+            "str": "Even yet …",
+            "ref": 8232
+          },
+          {
+            "str": "“How oft, my brother …",
+            "ref": 8264
+          },
+          {
+            "str": "To him then Hector with disdain …",
+            "ref": 8285
+          },
+          {
+            "str": "Furious he spoke …",
+            "ref": 8312
+          },
+          {
+            "str": "“Fellows in arms …",
+            "ref": 8334
+          },
+          {
+            "str": "Their ardour kindles …",
+            "ref": 8346
+          },
+          {
+            "str": "Thus godlike …",
+            "ref": 8362
+          },
+          {
+            "str": "So press’d with hunger …",
+            "ref": 8373
+          },
+          {
+            "str": "Resolved alike …",
+            "ref": 8380
+          },
+          {
+            "str": "“Why boast we, Glaucus …",
+            "ref": 8386
+          },
+          {
+            "str": "He said; his words …",
+            "ref": 8411
+          },
+          {
+            "str": "Swift, at the word …",
+            "ref": 8429
+          },
+          {
+            "str": "Straight to the fort …",
+            "ref": 8438
+          },
+          {
+            "str": "High on the walls …",
+            "ref": 8448
+          },
+          {
+            "str": "While to the ramparts daring …",
+            "ref": 8467
+          },
+          {
+            "str": "Swift to the battlement …",
+            "ref": 8481
+          },
+          {
+            "str": "This just rebuke …",
+            "ref": 8503
+          },
+          {
+            "str": "As when two scales …",
+            "ref": 8519
+          }
+        ]
+      },
+      {
+        "str": "XIII: THE FOURTH BATTLE CONTINUED, IN WHICH NEPTUNE ASSISTS THE GREEKS: THE",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Neptune, concerned …",
+            "ref": 8556
+          },
+          {
+            "str": "When now the Thunderer …",
+            "ref": 8557
+          },
+          {
+            "str": "Meantime the monarch …",
+            "ref": 8571
+          },
+          {
+            "str": "Far in the bay …",
+            "ref": 8587
+          },
+          {
+            "str": "Deep in the liquid …",
+            "ref": 8603
+          },
+          {
+            "str": "But Neptune, rising …",
+            "ref": 8619
+          },
+          {
+            "str": "“’Tis yours, O warriors …",
+            "ref": 8625
+          },
+          {
+            "str": "Then with his sceptre, that the deep …",
+            "ref": 8639
+          },
+          {
+            "str": "The inspiring god …",
+            "ref": 8649
+          },
+          {
+            "str": "“Some god, my friend …",
+            "ref": 8651
+          },
+          {
+            "str": "“With equal ardour …",
+            "ref": 8659
+          },
+          {
+            "str": "Full of the god …",
+            "ref": 8667
+          },
+          {
+            "str": "“Oh lasting …",
+            "ref": 8683
+          },
+          {
+            "str": "These words the Grecians …",
+            "ref": 8721
+          },
+          {
+            "str": "Thus breathing …",
+            "ref": 8739
+          },
+          {
+            "str": "On him the war is bent …",
+            "ref": 8753
+          },
+          {
+            "str": "He said; and roused …",
+            "ref": 8763
+          },
+          {
+            "str": "Meanwhile with rising …",
+            "ref": 8777
+          },
+          {
+            "str": "The god of ocean …",
+            "ref": 8821
+          },
+          {
+            "str": "“Where’s now the imperious …",
+            "ref": 8836
+          },
+          {
+            "str": "To whom the king: “On Greece …",
+            "ref": 8838
+          },
+          {
+            "str": "Thus he: and thus …",
+            "ref": 8847
+          },
+          {
+            "str": "This said, he rushes …",
+            "ref": 8858
+          },
+          {
+            "str": "Him, near his tent …",
+            "ref": 8870
+          },
+          {
+            "str": "“O prince! (Meriones …",
+            "ref": 8878
+          },
+          {
+            "str": "To whom the Cretan: “Enter …",
+            "ref": 8881
+          },
+          {
+            "str": "“Nor vain (said …",
+            "ref": 8891
+          },
+          {
+            "str": "To this, Idomeneus: “The fields …",
+            "ref": 8897
+          },
+          {
+            "str": "“In such assays thy blameless …",
+            "ref": 8915
+          },
+          {
+            "str": "Swift at the word …",
+            "ref": 8924
+          },
+          {
+            "str": "Then first spake …",
+            "ref": 8937
+          },
+          {
+            "str": "“Not in the centre (Idomen …",
+            "ref": 8941
+          },
+          {
+            "str": "He said: and Merion …",
+            "ref": 8959
+          },
+          {
+            "str": "Saturn’s great …",
+            "ref": 8977
+          },
+          {
+            "str": "Dreadful in arms …",
+            "ref": 8995
+          },
+          {
+            "str": "Stabb’d at the sight …",
+            "ref": 9047
+          },
+          {
+            "str": "“Not unattended (the proud …",
+            "ref": 9060
+          },
+          {
+            "str": "Heart-piercing anguish …",
+            "ref": 9064
+          },
+          {
+            "str": "Nor yet from fight …",
+            "ref": 9069
+          },
+          {
+            "str": "Then Idomen, insulting …",
+            "ref": 9092
+          },
+          {
+            "str": "The Trojan heard …",
+            "ref": 9106
+          },
+          {
+            "str": "“Now, Trojan …",
+            "ref": 9116
+          },
+          {
+            "str": "Æneas heard …",
+            "ref": 9124
+          },
+          {
+            "str": "He spoke, and all, as with one …",
+            "ref": 9148
+          },
+          {
+            "str": "Round dread …",
+            "ref": 9161
+          },
+          {
+            "str": "Nor knew the furious …",
+            "ref": 9193
+          },
+          {
+            "str": "Now, where in dust …",
+            "ref": 9197
+          },
+          {
+            "str": "Meanwhile fresh …",
+            "ref": 9214
+          },
+          {
+            "str": "Behold! Pisander …",
+            "ref": 9285
+          },
+          {
+            "str": "“Thus, Trojans …",
+            "ref": 9311
+          },
+          {
+            "str": "This said, he seized …",
+            "ref": 9333
+          },
+          {
+            "str": "Him on his car the Paphlagonian …",
+            "ref": 9352
+          },
+          {
+            "str": "Paris from far …",
+            "ref": 9358
+          },
+          {
+            "str": "Nor knew great …",
+            "ref": 9376
+          },
+          {
+            "str": "Now side …",
+            "ref": 9405
+          },
+          {
+            "str": "Now had the Greeks …",
+            "ref": 9431
+          },
+          {
+            "str": "“Though great …",
+            "ref": 9435
+          },
+          {
+            "str": "The counsel pleased …",
+            "ref": 9466
+          },
+          {
+            "str": "This said, the towering …",
+            "ref": 9473
+          },
+          {
+            "str": "Far on the left …",
+            "ref": 9487
+          },
+          {
+            "str": "“Ill-fated Paris …",
+            "ref": 9491
+          },
+          {
+            "str": "When Paris thus …",
+            "ref": 9501
+          },
+          {
+            "str": "Thus stalk …",
+            "ref": 9543
+          },
+          {
+            "str": "“Hector! come …",
+            "ref": 9547
+          },
+          {
+            "str": "As thus he spoke …",
+            "ref": 9563
+          },
+          {
+            "str": "“From whence this menace …",
+            "ref": 9569
+          },
+          {
+            "str": "He said; and like …",
+            "ref": 9580
+          }
+        ]
+      },
+      {
+        "str": "XIV: JUNO DECEIVES JUPITER BY THE GIRDLE OF VENUS.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "But not the genial feast …",
+            "ref": 9585
+          },
+          {
+            "str": "“What new alarm …",
+            "ref": 9589
+          },
+          {
+            "str": "He said: and, seizing …",
+            "ref": 9597
+          },
+          {
+            "str": "Him, in his march, the wounded …",
+            "ref": 9619
+          },
+          {
+            "str": "“O grace and glory …",
+            "ref": 9632
+          },
+          {
+            "str": "Gerenian Nestor …",
+            "ref": 9641
+          },
+          {
+            "str": "To him the monarch: “That our army …",
+            "ref": 9653
+          },
+          {
+            "str": "Thus he. The sage …",
+            "ref": 9670
+          },
+          {
+            "str": "“Thy just reproofs …",
+            "ref": 9693
+          },
+          {
+            "str": "Tydides cut …",
+            "ref": 9699
+          },
+          {
+            "str": "He added not: the listening …",
+            "ref": 9731
+          },
+          {
+            "str": "“Atrides! lo …",
+            "ref": 9737
+          },
+          {
+            "str": "He spoke, then rush …",
+            "ref": 9749
+          },
+          {
+            "str": "Meantime Saturnia …",
+            "ref": 9756
+          },
+          {
+            "str": "Swift to her bright …",
+            "ref": 9768
+          },
+          {
+            "str": "“How long (to Venus …",
+            "ref": 9795
+          },
+          {
+            "str": "“Let heaven …",
+            "ref": 9799
+          },
+          {
+            "str": "“Then grant me (said …",
+            "ref": 9801
+          },
+          {
+            "str": "“For lo! I haste …",
+            "ref": 9805
+          },
+          {
+            "str": "She said. With awe …",
+            "ref": 9818
+          },
+          {
+            "str": "Then Venus to the courts …",
+            "ref": 9831
+          },
+          {
+            "str": "“Sweet pleasing …",
+            "ref": 9839
+          },
+          {
+            "str": "“Imperial dame …",
+            "ref": 9848
+          },
+          {
+            "str": "“Vain are thy fears …",
+            "ref": 9869
+          },
+          {
+            "str": "“Swear then (he said …",
+            "ref": 9876
+          },
+          {
+            "str": "The queen assents …",
+            "ref": 9883
+          },
+          {
+            "str": "Then swift as wind …",
+            "ref": 9887
+          },
+          {
+            "str": "To Ida’s top …",
+            "ref": 9901
+          },
+          {
+            "str": "“Why comes my goddess …",
+            "ref": 9909
+          },
+          {
+            "str": "Then she—“I haste …",
+            "ref": 9911
+          },
+          {
+            "str": "“For that (said Jove …",
+            "ref": 9924
+          },
+          {
+            "str": "He spoke; the goddess …",
+            "ref": 9942
+          },
+          {
+            "str": "She ceased; and, smiling …",
+            "ref": 9956
+          },
+          {
+            "str": "Gazing he spoke …",
+            "ref": 9962
+          },
+          {
+            "str": "Now to the navy …",
+            "ref": 9976
+          },
+          {
+            "str": "“Now, Neptune …",
+            "ref": 9980
+          },
+          {
+            "str": "The troops assent …",
+            "ref": 10006
+          },
+          {
+            "str": "Troy’s great …",
+            "ref": 10018
+          },
+          {
+            "str": "When now they touch …",
+            "ref": 10076
+          },
+          {
+            "str": "Soon as the Greeks …",
+            "ref": 10084
+          },
+          {
+            "str": "Fired with revenge …",
+            "ref": 10093
+          },
+          {
+            "str": "He said, and sorrow …",
+            "ref": 10103
+          },
+          {
+            "str": "“Here, proud Polydamas …",
+            "ref": 10116
+          },
+          {
+            "str": "He spake, and smiled …",
+            "ref": 10123
+          },
+          {
+            "str": "Heart-piercing anguish …",
+            "ref": 10135
+          },
+          {
+            "str": "“Trojans! your great …",
+            "ref": 10152
+          },
+          {
+            "str": "Dreadful he spoke …",
+            "ref": 10160
+          },
+          {
+            "str": "Daughters of Jove …",
+            "ref": 10164
+          },
+          {
+            "str": "Thou first …",
+            "ref": 10170
+          }
+        ]
+      },
+      {
+        "str": "XV: THE FIFTH BATTLE AT THE SHIPS; AND THE ACTS OF AJAX.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Now in swift …",
+            "ref": 10181
+          },
+          {
+            "str": "“O thou, still …",
+            "ref": 10197
+          },
+          {
+            "str": "The Thunderer spoke …",
+            "ref": 10218
+          },
+          {
+            "str": "“By every oath …",
+            "ref": 10220
+          },
+          {
+            "str": "“Think’st thou …",
+            "ref": 10232
+          },
+          {
+            "str": "The trembling queen …",
+            "ref": 10261
+          },
+          {
+            "str": "To whom the white-arm’d goddess …",
+            "ref": 10273
+          },
+          {
+            "str": "The goddess said …",
+            "ref": 10283
+          },
+          {
+            "str": "Stern Mars …",
+            "ref": 10301
+          },
+          {
+            "str": "With that he gives command …",
+            "ref": 10309
+          },
+          {
+            "str": "“By what wild passion …",
+            "ref": 10321
+          },
+          {
+            "str": "This menace fix …",
+            "ref": 10335
+          },
+          {
+            "str": "She said, and sat …",
+            "ref": 10343
+          },
+          {
+            "str": "“Iris! descend …",
+            "ref": 10353
+          },
+          {
+            "str": "The all-mighty spoke …",
+            "ref": 10362
+          },
+          {
+            "str": "“Attend the mandate …",
+            "ref": 10368
+          },
+          {
+            "str": "“What means the haughty …",
+            "ref": 10375
+          },
+          {
+            "str": "“And must I then (said …",
+            "ref": 10393
+          },
+          {
+            "str": "“Great is the profit …",
+            "ref": 10399
+          },
+          {
+            "str": "Thus speaking …",
+            "ref": 10413
+          },
+          {
+            "str": "“Behold! the god …",
+            "ref": 10417
+          },
+          {
+            "str": "“Why sits great …",
+            "ref": 10444
+          },
+          {
+            "str": "The fainting hero …",
+            "ref": 10446
+          },
+          {
+            "str": "“What blest immortal …",
+            "ref": 10447
+          },
+          {
+            "str": "To him Apollo: “Be no more dismay …",
+            "ref": 10455
+          },
+          {
+            "str": "Thus to bold …",
+            "ref": 10463
+          },
+          {
+            "str": "Thoas with grief …",
+            "ref": 10482
+          },
+          {
+            "str": "The warrior spoke …",
+            "ref": 10502
+          },
+          {
+            "str": "Each Ajax, Teucer …",
+            "ref": 10504
+          },
+          {
+            "str": "The Grecians gaze …",
+            "ref": 10581
+          },
+          {
+            "str": "“O Jove! if ever …",
+            "ref": 10587
+          },
+          {
+            "str": "Thus prayed …",
+            "ref": 10595
+          },
+          {
+            "str": "While thus the thunder …",
+            "ref": 10609
+          },
+          {
+            "str": "He spoke; and, speaking …",
+            "ref": 10627
+          },
+          {
+            "str": "This said, his eager …",
+            "ref": 10657
+          },
+          {
+            "str": "“Teucer, behold …",
+            "ref": 10669
+          },
+          {
+            "str": "Impatient Teucer …",
+            "ref": 10677
+          },
+          {
+            "str": "Once more bold Teucer …",
+            "ref": 10694
+          },
+          {
+            "str": "“Since heaven …",
+            "ref": 10712
+          },
+          {
+            "str": "Then Teucer laid …",
+            "ref": 10722
+          },
+          {
+            "str": "This Hector saw …",
+            "ref": 10728
+          },
+          {
+            "str": "This roused the soul …",
+            "ref": 10747
+          },
+          {
+            "str": "“How long, ye …",
+            "ref": 10749
+          },
+          {
+            "str": "The listening Grecians …",
+            "ref": 10765
+          },
+          {
+            "str": "“Lo, Melanippus …",
+            "ref": 10807
+          },
+          {
+            "str": "Hector (this said …",
+            "ref": 10817
+          },
+          {
+            "str": "His generous sense …",
+            "ref": 10823
+          },
+          {
+            "str": "He said; and backward …",
+            "ref": 10835
+          },
+          {
+            "str": "Now on the fleet …",
+            "ref": 10859
+          },
+          {
+            "str": "Now all on fire …",
+            "ref": 10886
+          },
+          {
+            "str": "As when a lion, rushing …",
+            "ref": 10906
+          },
+          {
+            "str": "Chased from the foremost …",
+            "ref": 10930
+          },
+          {
+            "str": "“Oh friends …",
+            "ref": 10939
+          },
+          {
+            "str": "He spoke, and round …",
+            "ref": 10947
+          },
+          {
+            "str": "From ship to ship …",
+            "ref": 10970
+          },
+          {
+            "str": "’Twas thou …",
+            "ref": 10993
+          },
+          {
+            "str": "Still raging …",
+            "ref": 11006
+          },
+          {
+            "str": "“Haste, bring …",
+            "ref": 11008
+          },
+          {
+            "str": "He spoke—the warriors …",
+            "ref": 11018
+          },
+          {
+            "str": "“O friends! O heroes …",
+            "ref": 11028
+          },
+          {
+            "str": "Raging he spoke …",
+            "ref": 11039
+          }
+        ]
+      },
+      {
+        "str": "XVI: THE SIXTH BATTLE, THE ACTS AND DEATH OF PATROCLUS",
+        "level": 2,
+        "xs": [
+          {
+            "str": "So warr’d both armies …",
+            "ref": 11046
+          },
+          {
+            "str": "“Patroclus, say …",
+            "ref": 11054
+          },
+          {
+            "str": "“Griev’st thou …",
+            "ref": 11062
+          },
+          {
+            "str": "“Let Greece …",
+            "ref": 11075
+          },
+          {
+            "str": "“O man unpitying …",
+            "ref": 11090
+          },
+          {
+            "str": "“If some dire oracle …",
+            "ref": 11098
+          },
+          {
+            "str": "Say, Muses …",
+            "ref": 11178
+          },
+          {
+            "str": "Stern Hector …",
+            "ref": 11180
+          },
+          {
+            "str": "Divine Achilles …",
+            "ref": 11191
+          },
+          {
+            "str": "He cased his limbs …",
+            "ref": 11199
+          },
+          {
+            "str": "The brave Automedon …",
+            "ref": 11211
+          },
+          {
+            "str": "Achilles speeds …",
+            "ref": 11223
+          },
+          {
+            "str": "High in the midst …",
+            "ref": 11236
+          },
+          {
+            "str": "First march …",
+            "ref": 11242
+          },
+          {
+            "str": "Eudorus next …",
+            "ref": 11247
+          },
+          {
+            "str": "Pisander follow …",
+            "ref": 11259
+          },
+          {
+            "str": "The fourth by Ph …",
+            "ref": 11263
+          },
+          {
+            "str": "Soon as Achilles …",
+            "ref": 11265
+          },
+          {
+            "str": "Thus while he roused …",
+            "ref": 11281
+          },
+          {
+            "str": "Far o’er …",
+            "ref": 11293
+          },
+          {
+            "str": "But mindful of the gods …",
+            "ref": 11297
+          },
+          {
+            "str": "“O thou supreme …",
+            "ref": 11311
+          },
+          {
+            "str": "Great Jove …",
+            "ref": 11332
+          },
+          {
+            "str": "Meanwhile the troops …",
+            "ref": 11338
+          },
+          {
+            "str": "“O warriors, partners …",
+            "ref": 11350
+          },
+          {
+            "str": "Joyful they heard …",
+            "ref": 11356
+          },
+          {
+            "str": "Then first thy spear …",
+            "ref": 11364
+          },
+          {
+            "str": "But Troy repulsed …",
+            "ref": 11387
+          },
+          {
+            "str": "In equal arms …",
+            "ref": 11401
+          },
+          {
+            "str": "Slain by two …",
+            "ref": 11413
+          },
+          {
+            "str": "Stopp’d in the tumult …",
+            "ref": 11418
+          },
+          {
+            "str": "Amid the ranks …",
+            "ref": 11424
+          },
+          {
+            "str": "O’ertaken Neamas …",
+            "ref": 11433
+          },
+          {
+            "str": "Next Erymas …",
+            "ref": 11437
+          },
+          {
+            "str": "As when the flocks neglected …",
+            "ref": 11443
+          },
+          {
+            "str": "But still at Hector …",
+            "ref": 11449
+          },
+          {
+            "str": "As when the hand of Jove …",
+            "ref": 11457
+          },
+          {
+            "str": "And now the chief …",
+            "ref": 11499
+          },
+          {
+            "str": "Next on Eryalus …",
+            "ref": 11522
+          },
+          {
+            "str": "When now Sarpedon …",
+            "ref": 11532
+          },
+          {
+            "str": "He spake: and, speaking …",
+            "ref": 11539
+          },
+          {
+            "str": "Jove view …",
+            "ref": 11547
+          },
+          {
+            "str": "Then thus the goddess …",
+            "ref": 11558
+          },
+          {
+            "str": "She said: the cloud …",
+            "ref": 11575
+          },
+          {
+            "str": "The towering chiefs …",
+            "ref": 11600
+          },
+          {
+            "str": "Then to the leader of the Lycian …",
+            "ref": 11616
+          },
+          {
+            "str": "“All-seeing monarch …",
+            "ref": 11643
+          },
+          {
+            "str": "Apollo heard …",
+            "ref": 11657
+          },
+          {
+            "str": "“What thoughts, regardless …",
+            "ref": 11669
+          },
+          {
+            "str": "He spoke: each leader …",
+            "ref": 11680
+          },
+          {
+            "str": "But o’er the dead …",
+            "ref": 11687
+          },
+          {
+            "str": "“Heroes, be men …",
+            "ref": 11689
+          },
+          {
+            "str": "The heroes kindle …",
+            "ref": 11697
+          },
+          {
+            "str": "Now Greece …",
+            "ref": 11706
+          },
+          {
+            "str": "Fierce to the van …",
+            "ref": 11714
+          },
+          {
+            "str": "Then brave Laogonus …",
+            "ref": 11735
+          },
+          {
+            "str": "“O valiant leader …",
+            "ref": 11751
+          },
+          {
+            "str": "“O friend (Menoetius …",
+            "ref": 11759
+          },
+          {
+            "str": "This said, Patroclus …",
+            "ref": 11765
+          },
+          {
+            "str": "Now great …",
+            "ref": 11775
+          },
+          {
+            "str": "Jove view …",
+            "ref": 11785
+          },
+          {
+            "str": "Then, nor before, the hardy Lycians …",
+            "ref": 11802
+          },
+          {
+            "str": "Then thus to Ph …",
+            "ref": 11809
+          },
+          {
+            "str": "LYCIA",
+            "ref": 11822
+          },
+          {
+            "str": "Apollo bows …",
+            "ref": 11823
+          },
+          {
+            "str": "Meanwhile Patroclus …",
+            "ref": 11837
+          },
+          {
+            "str": "Who first, brave …",
+            "ref": 11847
+          },
+          {
+            "str": "Now Troy …",
+            "ref": 11855
+          },
+          {
+            "str": "“Patroclus! cease …",
+            "ref": 11860
+          },
+          {
+            "str": "So spoke the god …",
+            "ref": 11863
+          },
+          {
+            "str": "So spoke the inspiring …",
+            "ref": 11880
+          },
+          {
+            "str": "“Good heaven …",
+            "ref": 11896
+          },
+          {
+            "str": "Then rushing sudden …",
+            "ref": 11900
+          },
+          {
+            "str": "Now flaming …",
+            "ref": 11931
+          },
+          {
+            "str": "For lo! the god …",
+            "ref": 11945
+          },
+          {
+            "str": "His spear in shivers …",
+            "ref": 11956
+          },
+          {
+            "str": "A Dardan youth …",
+            "ref": 11962
+          },
+          {
+            "str": "“Lie there, Patroclus …",
+            "ref": 11992
+          },
+          {
+            "str": "‘Return not, my brave …",
+            "ref": 12001
+          },
+          {
+            "str": "Supine, and wildly …",
+            "ref": 12004
+          },
+          {
+            "str": "“Vain boaster …",
+            "ref": 12006
+          },
+          {
+            "str": "He faints: the soul …",
+            "ref": 12020
+          },
+          {
+            "str": "Then Hector pausing …",
+            "ref": 12023
+          },
+          {
+            "str": "“From whence this boding …",
+            "ref": 12025
+          },
+          {
+            "str": "Pensive he said …",
+            "ref": 12027
+          }
+        ]
+      },
+      {
+        "str": "XVII: THE SEVENTH BATTLE, FOR THE BODY OF PATROCLUS.—THE ACTS OF MENELAUS.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "On the cold earth …",
+            "ref": 12032
+          },
+          {
+            "str": "The son of Panthus …",
+            "ref": 12042
+          },
+          {
+            "str": "The Trojan thus …",
+            "ref": 12048
+          },
+          {
+            "str": "Unmoved, Euphorbus …",
+            "ref": 12065
+          },
+          {
+            "str": "Swift as the word …",
+            "ref": 12073
+          },
+          {
+            "str": "As the young olive …",
+            "ref": 12084
+          },
+          {
+            "str": "Meanwhile Apollo …",
+            "ref": 12101
+          },
+          {
+            "str": "Thus having spoke …",
+            "ref": 12112
+          },
+          {
+            "str": "“Then shall I quit Patroclus …",
+            "ref": 12125
+          },
+          {
+            "str": "So from the fold the unwilling …",
+            "ref": 12139
+          },
+          {
+            "str": "To him the king: “Oh …",
+            "ref": 12151
+          },
+          {
+            "str": "Meanwhile great …",
+            "ref": 12165
+          },
+          {
+            "str": "But Glaucus, leader …",
+            "ref": 12174
+          },
+          {
+            "str": "“Where now in Hector …",
+            "ref": 12176
+          },
+          {
+            "str": "The Trojan chief …",
+            "ref": 12206
+          },
+          {
+            "str": "“Say, is it just …",
+            "ref": 12208
+          },
+          {
+            "str": "Then turning to the martial …",
+            "ref": 12224
+          },
+          {
+            "str": "He strode along …",
+            "ref": 12230
+          },
+          {
+            "str": "Him, proud in triumph …",
+            "ref": 12243
+          },
+          {
+            "str": "Then with his sable brow …",
+            "ref": 12262
+          },
+          {
+            "str": "“Hear, all ye …",
+            "ref": 12275
+          },
+          {
+            "str": "Fired by his words …",
+            "ref": 12289
+          },
+          {
+            "str": "Great Ajax …",
+            "ref": 12295
+          },
+          {
+            "str": "The warrior raised …",
+            "ref": 12306
+          },
+          {
+            "str": "Oilean Ajax …",
+            "ref": 12314
+          },
+          {
+            "str": "Nor less resolved …",
+            "ref": 12328
+          },
+          {
+            "str": "The first attack …",
+            "ref": 12336
+          },
+          {
+            "str": "Once more at Ajax Hector …",
+            "ref": 12360
+          },
+          {
+            "str": "Phorcys, as slain …",
+            "ref": 12371
+          },
+          {
+            "str": "Struck at the sight …",
+            "ref": 12377
+          },
+          {
+            "str": "Thus he—“What …",
+            "ref": 12387
+          },
+          {
+            "str": "Æneas through the form …",
+            "ref": 12396
+          },
+          {
+            "str": "He spoke, and foremost …",
+            "ref": 12402
+          },
+          {
+            "str": "Greece, in close …",
+            "ref": 12425
+          },
+          {
+            "str": "Meanwhile the sons …",
+            "ref": 12442
+          },
+          {
+            "str": "But round the corse …",
+            "ref": 12450
+          },
+          {
+            "str": "Achilles in his ships …",
+            "ref": 12467
+          },
+          {
+            "str": "Still raged …",
+            "ref": 12477
+          },
+          {
+            "str": "Thus they: while with one …",
+            "ref": 12485
+          },
+          {
+            "str": "Then clash their sounding …",
+            "ref": 12487
+          },
+          {
+            "str": "Meantime, at distance …",
+            "ref": 12489
+          },
+          {
+            "str": "“Unhappy coursers …",
+            "ref": 12507
+          },
+          {
+            "str": "He said; and breathing …",
+            "ref": 12523
+          },
+          {
+            "str": "“What god provokes …",
+            "ref": 12533
+          },
+          {
+            "str": "“In happy time …",
+            "ref": 12537
+          },
+          {
+            "str": "He said. Alcimedon …",
+            "ref": 12544
+          },
+          {
+            "str": "“Lo, to my sight …",
+            "ref": 12548
+          },
+          {
+            "str": "The son of Venus …",
+            "ref": 12554
+          },
+          {
+            "str": "Unmov’d, Automedon …",
+            "ref": 12562
+          },
+          {
+            "str": "Then through the field he sends …",
+            "ref": 12570
+          },
+          {
+            "str": "He spoke, and high …",
+            "ref": 12579
+          },
+          {
+            "str": "Now at Automedon …",
+            "ref": 12589
+          },
+          {
+            "str": "So looks the lion …",
+            "ref": 12600
+          },
+          {
+            "str": "And now Minerva …",
+            "ref": 12604
+          },
+          {
+            "str": "Pleased to be first …",
+            "ref": 12628
+          },
+          {
+            "str": "There stood a Trojan …",
+            "ref": 12637
+          },
+          {
+            "str": "“Oh prince …",
+            "ref": 12647
+          },
+          {
+            "str": "But now the Eternal …",
+            "ref": 12656
+          },
+          {
+            "str": "Then trembled Greece …",
+            "ref": 12663
+          },
+          {
+            "str": "As Hector follow …",
+            "ref": 12669
+          },
+          {
+            "str": "Not Ajax less …",
+            "ref": 12690
+          },
+          {
+            "str": "“Alas! who sees …",
+            "ref": 12694
+          },
+          {
+            "str": "With tears the hero …",
+            "ref": 12716
+          },
+          {
+            "str": "So turns the lion …",
+            "ref": 12724
+          },
+          {
+            "str": "“O guard these relics …",
+            "ref": 12736
+          },
+          {
+            "str": "So parts the chief …",
+            "ref": 12742
+          },
+          {
+            "str": "To him the king: “Beloved …",
+            "ref": 12753
+          },
+          {
+            "str": "The youthful warrior …",
+            "ref": 12761
+          },
+          {
+            "str": "Swift fled …",
+            "ref": 12769
+          },
+          {
+            "str": "“’Tis well (said …",
+            "ref": 12781
+          },
+          {
+            "str": "While thus aloft …",
+            "ref": 12798
+          }
+        ]
+      },
+      {
+        "str": "XVIII: THE GRIEF OF ACHILLES, AND NEW ARMOUR MADE HIM BY VULCAN.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Thus like …",
+            "ref": 12831
+          },
+          {
+            "str": "Thus while he thinks …",
+            "ref": 12847
+          },
+          {
+            "str": "A sudden horror …",
+            "ref": 12853
+          },
+          {
+            "str": "Far in the deep …",
+            "ref": 12869
+          },
+          {
+            "str": "“Hear me, and judge …",
+            "ref": 12890
+          },
+          {
+            "str": "She said, and left …",
+            "ref": 12903
+          },
+          {
+            "str": "“Why mourns my son …",
+            "ref": 12913
+          },
+          {
+            "str": "He, deeply groaning …",
+            "ref": 12916
+          },
+          {
+            "str": "A flood of tears …",
+            "ref": 12936
+          },
+          {
+            "str": "“My son (coerulean …",
+            "ref": 12973
+          },
+          {
+            "str": "Then turning to the daughters …",
+            "ref": 12984
+          },
+          {
+            "str": "“Ye sister …",
+            "ref": 12986
+          },
+          {
+            "str": "And now the Greeks …",
+            "ref": 12994
+          },
+          {
+            "str": "“Rise, son …",
+            "ref": 13015
+          },
+          {
+            "str": "“Who sends thee …",
+            "ref": 13025
+          },
+          {
+            "str": "“I come, Pelides …",
+            "ref": 13027
+          },
+          {
+            "str": "“Thy want of arms …",
+            "ref": 13041
+          },
+          {
+            "str": "She spoke, and pass …",
+            "ref": 13047
+          },
+          {
+            "str": "A lofty bier …",
+            "ref": 13081
+          },
+          {
+            "str": "Meantime, unwearied …",
+            "ref": 13089
+          },
+          {
+            "str": "“In free debate …",
+            "ref": 13104
+          },
+          {
+            "str": "“Return! (said …",
+            "ref": 13136
+          },
+          {
+            "str": "The shouting host …",
+            "ref": 13164
+          },
+          {
+            "str": "While the long night …",
+            "ref": 13168
+          },
+          {
+            "str": "“In what vain promise …",
+            "ref": 13180
+          },
+          {
+            "str": "He spoke, and bade …",
+            "ref": 13204
+          },
+          {
+            "str": "Meanwhile to Juno …",
+            "ref": 13218
+          },
+          {
+            "str": "“What words are these? (the imperial …",
+            "ref": 13224
+          },
+          {
+            "str": "So they. Meanwhile the silver …",
+            "ref": 13232
+          },
+          {
+            "str": "“What, goddess! this unusual …",
+            "ref": 13252
+          },
+          {
+            "str": "High on a throne …",
+            "ref": 13256
+          },
+          {
+            "str": "Then from his anvil the lame …",
+            "ref": 13276
+          },
+          {
+            "str": "“Thee, welcome …",
+            "ref": 13292
+          },
+          {
+            "str": "To whom the mournful mother …",
+            "ref": 13296
+          },
+          {
+            "str": "To her the artist-god: “Thy griefs …",
+            "ref": 13325
+          },
+          {
+            "str": "Thus having said …",
+            "ref": 13331
+          },
+          {
+            "str": "Then first he form …",
+            "ref": 13344
+          },
+          {
+            "str": "Two cities …",
+            "ref": 13359
+          },
+          {
+            "str": "There in the forum swarm …",
+            "ref": 13369
+          },
+          {
+            "str": "Another part …",
+            "ref": 13383
+          },
+          {
+            "str": "A field deep …",
+            "ref": 13417
+          },
+          {
+            "str": "Another field …",
+            "ref": 13427
+          },
+          {
+            "str": "Next, ripe …",
+            "ref": 13441
+          },
+          {
+            "str": "Here herds of oxen …",
+            "ref": 13454
+          },
+          {
+            "str": "Next this, the eye …",
+            "ref": 13465
+          },
+          {
+            "str": "A figured dance …",
+            "ref": 13469
+          },
+          {
+            "str": "Thus the broad …",
+            "ref": 13487
+          },
+          {
+            "str": "This done, whate …",
+            "ref": 13491
+          }
+        ]
+      },
+      {
+        "str": "XIX: THE RECONCILIATION OF ACHILLES AND AGAMEMNON.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Soon as Aurora …",
+            "ref": 13499
+          },
+          {
+            "str": "“Suppress, my son …",
+            "ref": 13506
+          },
+          {
+            "str": "Then drops the radiant …",
+            "ref": 13510
+          },
+          {
+            "str": "“Goddess! (he cried …",
+            "ref": 13520
+          },
+          {
+            "str": "“That unavailing care …",
+            "ref": 13525
+          },
+          {
+            "str": "Then in the nostrils of the slain …",
+            "ref": 13533
+          },
+          {
+            "str": "“O monarch! better …",
+            "ref": 13548
+          },
+          {
+            "str": "He said: his finish …",
+            "ref": 13568
+          },
+          {
+            "str": "“Hear me, ye …",
+            "ref": 13572
+          },
+          {
+            "str": "“O king of nations …",
+            "ref": 13631
+          },
+          {
+            "str": "The son of Peleus …",
+            "ref": 13640
+          },
+          {
+            "str": "To him the monarch: “Just …",
+            "ref": 13668
+          },
+          {
+            "str": "“For this (the stern Æacides …",
+            "ref": 13682
+          },
+          {
+            "str": "“O first of Greeks …",
+            "ref": 13699
+          },
+          {
+            "str": "And now the delegates …",
+            "ref": 13725
+          },
+          {
+            "str": "“Witness thou …",
+            "ref": 13749
+          },
+          {
+            "str": "With that, his weapon deep …",
+            "ref": 13756
+          },
+          {
+            "str": "Then thus Achilles …",
+            "ref": 13760
+          },
+          {
+            "str": "The speedy council …",
+            "ref": 13767
+          },
+          {
+            "str": "“Ah, youth …",
+            "ref": 13781
+          },
+          {
+            "str": "Her sister captives …",
+            "ref": 13799
+          },
+          {
+            "str": "“If yet Achilles …",
+            "ref": 13803
+          },
+          {
+            "str": "He spoke, and from the warriors …",
+            "ref": 13805
+          },
+          {
+            "str": "“Thou too, Patroclus …",
+            "ref": 13811
+          },
+          {
+            "str": "Sighing he said …",
+            "ref": 13834
+          },
+          {
+            "str": "“Is then Achilles now …",
+            "ref": 13838
+          },
+          {
+            "str": "He spoke; and sudden …",
+            "ref": 13844
+          },
+          {
+            "str": "Now issued …",
+            "ref": 13852
+          },
+          {
+            "str": "Full in the midst …",
+            "ref": 13864
+          },
+          {
+            "str": "The silver cuishes …",
+            "ref": 13872
+          },
+          {
+            "str": "So to night-wandering sailors …",
+            "ref": 13878
+          },
+          {
+            "str": "Next, his high …",
+            "ref": 13884
+          },
+          {
+            "str": "And now he shakes …",
+            "ref": 13893
+          },
+          {
+            "str": "Automedon and Alcimus …",
+            "ref": 13897
+          },
+          {
+            "str": "“Xanthus and Balius …",
+            "ref": 13909
+          },
+          {
+            "str": "The generous Xanthus …",
+            "ref": 13915
+          },
+          {
+            "str": "Then ceased for ever …",
+            "ref": 13932
+          }
+        ]
+      },
+      {
+        "str": "XX: THE BATTLE OF THE GODS, AND THE ACTS OF ACHILLES.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Thus round …",
+            "ref": 13939
+          },
+          {
+            "str": "“What moves the god …",
+            "ref": 13958
+          },
+          {
+            "str": "“’Tis true …",
+            "ref": 13964
+          },
+          {
+            "str": "On adverse parts …",
+            "ref": 13978
+          },
+          {
+            "str": "But when the powers descending …",
+            "ref": 13996
+          },
+          {
+            "str": "Above, the sire of gods …",
+            "ref": 14007
+          },
+          {
+            "str": "Such war the immortals …",
+            "ref": 14020
+          },
+          {
+            "str": "While thus the gods …",
+            "ref": 14033
+          },
+          {
+            "str": "Æneas was the first …",
+            "ref": 14038
+          },
+          {
+            "str": "Then thus the hero …",
+            "ref": 14045
+          },
+          {
+            "str": "To whom the son of Jove …",
+            "ref": 14061
+          },
+          {
+            "str": "This said, and spirit …",
+            "ref": 14069
+          },
+          {
+            "str": "“Behold an action …",
+            "ref": 14073
+          },
+          {
+            "str": "Thus she; and thus …",
+            "ref": 14086
+          },
+          {
+            "str": "Thus having said …",
+            "ref": 14097
+          },
+          {
+            "str": "Here Neptune and the gods …",
+            "ref": 14103
+          },
+          {
+            "str": "Meanwhile the rushing …",
+            "ref": 14110
+          },
+          {
+            "str": "“Why comes Æneas …",
+            "ref": 14135
+          },
+          {
+            "str": "To this Anchises’ son …",
+            "ref": 14160
+          },
+          {
+            "str": "He spoke. With all his force …",
+            "ref": 14226
+          },
+          {
+            "str": "“Lo! on the brink …",
+            "ref": 14258
+          },
+          {
+            "str": "The great earth …",
+            "ref": 14272
+          },
+          {
+            "str": "The king of ocean …",
+            "ref": 14281
+          },
+          {
+            "str": "“What power, O prince …",
+            "ref": 14294
+          },
+          {
+            "str": "With that, he left him wondering …",
+            "ref": 14302
+          },
+          {
+            "str": "He said: nor less …",
+            "ref": 14327
+          },
+          {
+            "str": "Thus (breathing …",
+            "ref": 14339
+          },
+          {
+            "str": "Then fierce Achilles …",
+            "ref": 14348
+          },
+          {
+            "str": "“Lie there, Otryntides …",
+            "ref": 14359
+          },
+          {
+            "str": "Demoleon next …",
+            "ref": 14367
+          },
+          {
+            "str": "Hector, undaunted …",
+            "ref": 14408
+          },
+          {
+            "str": "Then parts the lance …",
+            "ref": 14416
+          },
+          {
+            "str": "“Wretch! thou …",
+            "ref": 14428
+          },
+          {
+            "str": "With that, he gluts his rage …",
+            "ref": 14431
+          },
+          {
+            "str": "Nor less unpitied …",
+            "ref": 14441
+          },
+          {
+            "str": "Through Mulius’ head …",
+            "ref": 14450
+          }
+        ]
+      },
+      {
+        "str": "XXI: THE BATTLE IN THE RIVER SCAMANDER.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "And now to Xanthus …",
+            "ref": 14493
+          },
+          {
+            "str": "Then, as once more he plunged amid …",
+            "ref": 14530
+          },
+          {
+            "str": "Thus while he spoke …",
+            "ref": 14562
+          },
+          {
+            "str": "“Thy well-known captive …",
+            "ref": 14572
+          },
+          {
+            "str": "These words, attended …",
+            "ref": 14597
+          },
+          {
+            "str": "“Lie there, Lycaon …",
+            "ref": 14623
+          },
+          {
+            "str": "These boastful words …",
+            "ref": 14639
+          },
+          {
+            "str": "“What art thou …",
+            "ref": 14652
+          },
+          {
+            "str": "“O son of Peleus …",
+            "ref": 14654
+          },
+          {
+            "str": "Threatening he said …",
+            "ref": 14663
+          },
+          {
+            "str": "“So ends thy glory …",
+            "ref": 14685
+          },
+          {
+            "str": "He said: then from the bank …",
+            "ref": 14701
+          },
+          {
+            "str": "“O first of mortals …",
+            "ref": 14712
+          },
+          {
+            "str": "In human form …",
+            "ref": 14720
+          },
+          {
+            "str": "He said; and drove …",
+            "ref": 14727
+          },
+          {
+            "str": "He spoke in vain …",
+            "ref": 14733
+          },
+          {
+            "str": "Still flies …",
+            "ref": 14775
+          },
+          {
+            "str": "“Is there no god Achilles …",
+            "ref": 14789
+          },
+          {
+            "str": "Neptune and Pallas …",
+            "ref": 14806
+          },
+          {
+            "str": "Stung with new …",
+            "ref": 14821
+          },
+          {
+            "str": "Then thus to Simois …",
+            "ref": 14833
+          },
+          {
+            "str": "He said; and on the chief …",
+            "ref": 14853
+          },
+          {
+            "str": "“Rise to the war …",
+            "ref": 14861
+          },
+          {
+            "str": "The power ignipotent …",
+            "ref": 14873
+          },
+          {
+            "str": "“Oh Vulcan …",
+            "ref": 14892
+          },
+          {
+            "str": "He ceased; wide …",
+            "ref": 14896
+          },
+          {
+            "str": "“Ah why, Saturnia …",
+            "ref": 14906
+          },
+          {
+            "str": "His warm entreaty …",
+            "ref": 14916
+          },
+          {
+            "str": "While these by Juno’s will the strife …",
+            "ref": 14921
+          },
+          {
+            "str": "“What moved thy madness …",
+            "ref": 14931
+          },
+          {
+            "str": "He spoke, and smote …",
+            "ref": 14936
+          },
+          {
+            "str": "Then heaved the goddess …",
+            "ref": 14940
+          },
+          {
+            "str": "“Hast thou …",
+            "ref": 14950
+          },
+          {
+            "str": "The goddess spoke …",
+            "ref": 14955
+          },
+          {
+            "str": "“Lo! what an aid …",
+            "ref": 14963
+          },
+          {
+            "str": "Minerva smiling …",
+            "ref": 14967
+          },
+          {
+            "str": "Meantime, to mix …",
+            "ref": 14977
+          },
+          {
+            "str": "Apollo thus …",
+            "ref": 15005
+          },
+          {
+            "str": "Then turns his face …",
+            "ref": 15013
+          },
+          {
+            "str": "“And is it thus the youthful …",
+            "ref": 15017
+          },
+          {
+            "str": "Silent he heard …",
+            "ref": 15022
+          },
+          {
+            "str": "To her Latona hastes …",
+            "ref": 15047
+          },
+          {
+            "str": "He spoke; and pass …",
+            "ref": 15053
+          },
+          {
+            "str": "The sire superior …",
+            "ref": 15061
+          },
+          {
+            "str": "Thus they above: while, swiftly …",
+            "ref": 15065
+          },
+          {
+            "str": "Through blood, through death …",
+            "ref": 15073
+          },
+          {
+            "str": "High on a turret …",
+            "ref": 15081
+          },
+          {
+            "str": "“You to whose care …",
+            "ref": 15089
+          },
+          {
+            "str": "Then had the Greeks eternal …",
+            "ref": 15106
+          },
+          {
+            "str": "“What, shall I fly this terror …",
+            "ref": 15117
+          },
+          {
+            "str": "He said, and stood …",
+            "ref": 15140
+          },
+          {
+            "str": "“How proud Achilles …",
+            "ref": 15155
+          },
+          {
+            "str": "He said: with matchless …",
+            "ref": 15162
+          }
+        ]
+      },
+      {
+        "str": "XXII: THE DEATH OF HECTOR.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Thus to their bulwarks …",
+            "ref": 15186
+          },
+          {
+            "str": "Apollo now …",
+            "ref": 15198
+          },
+          {
+            "str": "The chief incensed …",
+            "ref": 15208
+          },
+          {
+            "str": "Then to the city, terrible …",
+            "ref": 15216
+          },
+          {
+            "str": "“Ah stay …",
+            "ref": 15236
+          },
+          {
+            "str": "He said, and acting …",
+            "ref": 15290
+          },
+          {
+            "str": "“Have mercy on me, O my son …",
+            "ref": 15296
+          },
+          {
+            "str": "So they, while down their cheeks the torrents …",
+            "ref": 15307
+          },
+          {
+            "str": "“Where lies my way …",
+            "ref": 15318
+          },
+          {
+            "str": "Thus pondering …",
+            "ref": 15351
+          },
+          {
+            "str": "“Unworthy sight …",
+            "ref": 15398
+          },
+          {
+            "str": "Then Pallas thus …",
+            "ref": 15410
+          },
+          {
+            "str": "“Go then (return …",
+            "ref": 15415
+          },
+          {
+            "str": "As through the forest, o’er …",
+            "ref": 15419
+          },
+          {
+            "str": "What god, O muse …",
+            "ref": 15439
+          },
+          {
+            "str": "Jove lifts …",
+            "ref": 15447
+          },
+          {
+            "str": "Then Phœbus left …",
+            "ref": 15452
+          },
+          {
+            "str": "Her voice divine …",
+            "ref": 15464
+          },
+          {
+            "str": "“Too long, O Hector …",
+            "ref": 15470
+          },
+          {
+            "str": "Then he: “O prince! allied …",
+            "ref": 15474
+          },
+          {
+            "str": "Again the goddess: “Much …",
+            "ref": 15479
+          },
+          {
+            "str": "Fraudful she said …",
+            "ref": 15486
+          },
+          {
+            "str": "“Enough, O son …",
+            "ref": 15490
+          },
+          {
+            "str": "“Talk not of oaths …",
+            "ref": 15505
+          },
+          {
+            "str": "He spoke, and launch …",
+            "ref": 15520
+          },
+          {
+            "str": "“The life you boasted …",
+            "ref": 15527
+          },
+          {
+            "str": "The weapon flew …",
+            "ref": 15538
+          },
+          {
+            "str": "Fierce, at the word …",
+            "ref": 15558
+          },
+          {
+            "str": "“At last is Hector …",
+            "ref": 15583
+          },
+          {
+            "str": "Then Hector, fainting …",
+            "ref": 15593
+          },
+          {
+            "str": "“No, wretch accursed …",
+            "ref": 15601
+          },
+          {
+            "str": "Then thus the chief …",
+            "ref": 15613
+          },
+          {
+            "str": "He ceased. The Fates …",
+            "ref": 15620
+          },
+          {
+            "str": "Achilles, musing …",
+            "ref": 15625
+          },
+          {
+            "str": "“How changed that Hector …",
+            "ref": 15634
+          },
+          {
+            "str": "High o’er …",
+            "ref": 15636
+          },
+          {
+            "str": "Then his fell soul …",
+            "ref": 15659
+          },
+          {
+            "str": "The mother first …",
+            "ref": 15674
+          },
+          {
+            "str": "Thus wail …",
+            "ref": 15713
+          },
+          {
+            "str": "Amidst her matrons …",
+            "ref": 15715
+          },
+          {
+            "str": "But not as yet the fatal …",
+            "ref": 15725
+          },
+          {
+            "str": "“Ah follow …",
+            "ref": 15741
+          },
+          {
+            "str": "She spoke: and furious …",
+            "ref": 15754
+          },
+          {
+            "str": "“O wretched husband …",
+            "ref": 15769
+          },
+          {
+            "str": "So spake the mournful …",
+            "ref": 15817
+          }
+        ]
+      },
+      {
+        "str": "XXIII: FUNERAL GAMES IN HONOUR OF PATROCLUS.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Thus humbled …",
+            "ref": 15818
+          },
+          {
+            "str": "“Not yet, my brave …",
+            "ref": 15825
+          },
+          {
+            "str": "The troops obey …",
+            "ref": 15831
+          },
+          {
+            "str": "“All hail, Patroclus …",
+            "ref": 15841
+          },
+          {
+            "str": "Gloomy he said …",
+            "ref": 15849
+          },
+          {
+            "str": "“No drop shall touch …",
+            "ref": 15867
+          },
+          {
+            "str": "He spoke: they hear …",
+            "ref": 15878
+          },
+          {
+            "str": "“And is it thou? (he answers …",
+            "ref": 15917
+          },
+          {
+            "str": "He said, and with his longing …",
+            "ref": 15922
+          },
+          {
+            "str": "“’Tis true …",
+            "ref": 15927
+          },
+          {
+            "str": "Thus while he spoke …",
+            "ref": 15935
+          },
+          {
+            "str": "“Sperchius! whose …",
+            "ref": 15981
+          },
+          {
+            "str": "Thus o’er …",
+            "ref": 15993
+          },
+          {
+            "str": "“All hail, Patroclus …",
+            "ref": 16021
+          },
+          {
+            "str": "So spake he, threatening …",
+            "ref": 16027
+          },
+          {
+            "str": "Nor yet the pile …",
+            "ref": 16036
+          },
+          {
+            "str": "Swift as the word …",
+            "ref": 16062
+          },
+          {
+            "str": "Then parting from the pile …",
+            "ref": 16088
+          },
+          {
+            "str": "“Ye kings …",
+            "ref": 16093
+          },
+          {
+            "str": "The Greeks obey …",
+            "ref": 16109
+          },
+          {
+            "str": "The swarming populace …",
+            "ref": 16119
+          },
+          {
+            "str": "“Behold the prizes …",
+            "ref": 16139
+          },
+          {
+            "str": "Fired at his word …",
+            "ref": 16151
+          },
+          {
+            "str": "“My son! though …",
+            "ref": 16169
+          },
+          {
+            "str": "Thus (nought …",
+            "ref": 16216
+          },
+          {
+            "str": "The next, though …",
+            "ref": 16271
+          },
+          {
+            "str": "Thus he. The coursers …",
+            "ref": 16284
+          },
+          {
+            "str": "Meantime the Grecians …",
+            "ref": 16316
+          },
+          {
+            "str": "“Old man …",
+            "ref": 16339
+          },
+          {
+            "str": "Thus he. Idomeneus …",
+            "ref": 16347
+          },
+          {
+            "str": "He said: and Ajax …",
+            "ref": 16355
+          },
+          {
+            "str": "“Forbear, ye …",
+            "ref": 16359
+          },
+          {
+            "str": "Young Nestor …",
+            "ref": 16380
+          },
+          {
+            "str": "Merion pursued …",
+            "ref": 16389
+          },
+          {
+            "str": "“Behold! the man …",
+            "ref": 16394
+          },
+          {
+            "str": "The Greeks consent …",
+            "ref": 16399
+          },
+          {
+            "str": "Thus spake …",
+            "ref": 16416
+          },
+          {
+            "str": "He said: Automedon …",
+            "ref": 16423
+          },
+          {
+            "str": "“The praise of wisdom …",
+            "ref": 16430
+          },
+          {
+            "str": "The prudent chief …",
+            "ref": 16446
+          },
+          {
+            "str": "So spoke Antilochus …",
+            "ref": 16456
+          },
+          {
+            "str": "“Still may …",
+            "ref": 16464
+          },
+          {
+            "str": "He said; and pleased …",
+            "ref": 16477
+          },
+          {
+            "str": "He said, and placed …",
+            "ref": 16495
+          },
+          {
+            "str": "“Wisely and well, my son …",
+            "ref": 16497
+          },
+          {
+            "str": "Proud of the gift …",
+            "ref": 16527
+          },
+          {
+            "str": "The prizes next …",
+            "ref": 16529
+          },
+          {
+            "str": "This dreadful combat …",
+            "ref": 16543
+          },
+          {
+            "str": "The giant spoke …",
+            "ref": 16556
+          },
+          {
+            "str": "The third bold …",
+            "ref": 16587
+          },
+          {
+            "str": "He said; and, straining …",
+            "ref": 16614
+          },
+          {
+            "str": "“Your noble vigour …",
+            "ref": 16627
+          },
+          {
+            "str": "The hero’s words …",
+            "ref": 16631
+          },
+          {
+            "str": "And now succeed …",
+            "ref": 16634
+          },
+          {
+            "str": "The hero said …",
+            "ref": 16651
+          },
+          {
+            "str": "“Accursed fate …",
+            "ref": 16684
+          },
+          {
+            "str": "Thus sourly …",
+            "ref": 16688
+          },
+          {
+            "str": "“Why with our wiser elders …",
+            "ref": 16692
+          },
+          {
+            "str": "The effect succeeds …",
+            "ref": 16701
+          },
+          {
+            "str": "Next these a buckler …",
+            "ref": 16706
+          },
+          {
+            "str": "Fierce at the word …",
+            "ref": 16721
+          },
+          {
+            "str": "Then hurl’d the hero …",
+            "ref": 16737
+          },
+          {
+            "str": "Stern Polyp …",
+            "ref": 16753
+          },
+          {
+            "str": "Those, who in skilful archery …",
+            "ref": 16768
+          },
+          {
+            "str": "“Whose weapon …",
+            "ref": 16776
+          },
+          {
+            "str": "To close the funeral …",
+            "ref": 16803
+          },
+          {
+            "str": "“Thee first …",
+            "ref": 16813
+          },
+          {
+            "str": "Pleased from the hero …",
+            "ref": 16818
+          }
+        ]
+      },
+      {
+        "str": "XXIV: THE REDEMPTION OF THE BODY OF HECTOR.",
+        "level": 2,
+        "xs": [
+          {
+            "str": "Now from the finish …",
+            "ref": 16822
+          },
+          {
+            "str": "“Unpitying powers …",
+            "ref": 16862
+          },
+          {
+            "str": "“If equal honours …",
+            "ref": 16887
+          },
+          {
+            "str": "Then thus the Thunderer …",
+            "ref": 16900
+          },
+          {
+            "str": "He added not: and Iris …",
+            "ref": 16915
+          },
+          {
+            "str": "Then through the world of waters …",
+            "ref": 16941
+          },
+          {
+            "str": "“Thou comest …",
+            "ref": 16951
+          },
+          {
+            "str": "His word the silver …",
+            "ref": 16967
+          },
+          {
+            "str": "“How long, unhappy …",
+            "ref": 16975
+          },
+          {
+            "str": "To whom Achilles: “Be the ransom …",
+            "ref": 16987
+          },
+          {
+            "str": "While thus they communed …",
+            "ref": 16989
+          },
+          {
+            "str": "Then down her bow the winged …",
+            "ref": 16998
+          },
+          {
+            "str": "“Fear not, O father …",
+            "ref": 17011
+          },
+          {
+            "str": "She spoke, and vanish …",
+            "ref": 17020
+          },
+          {
+            "str": "“Unhappy consort …",
+            "ref": 17027
+          },
+          {
+            "str": "The hoary monarch …",
+            "ref": 17035
+          },
+          {
+            "str": "“Seek not to stay …",
+            "ref": 17056
+          },
+          {
+            "str": "From forth his open …",
+            "ref": 17069
+          },
+          {
+            "str": "Lo! the sad …",
+            "ref": 17078
+          },
+          {
+            "str": "He said, and feebly …",
+            "ref": 17096
+          },
+          {
+            "str": "“Inglorious sons …",
+            "ref": 17103
+          },
+          {
+            "str": "The sons their father …",
+            "ref": 17117
+          },
+          {
+            "str": "“Take this, and pour …",
+            "ref": 17140
+          },
+          {
+            "str": "“’Tis just …",
+            "ref": 17151
+          },
+          {
+            "str": "“O first and greatest …",
+            "ref": 17158
+          },
+          {
+            "str": "Jove heard …",
+            "ref": 17165
+          },
+          {
+            "str": "The god obeys …",
+            "ref": 17193
+          },
+          {
+            "str": "The afflicted monarch …",
+            "ref": 17216
+          },
+          {
+            "str": "“Say whither …",
+            "ref": 17222
+          },
+          {
+            "str": "“Thy words, that speak …",
+            "ref": 17234
+          },
+          {
+            "str": "“Nor true are all thy words …",
+            "ref": 17240
+          },
+          {
+            "str": "The king, alarm …",
+            "ref": 17248
+          },
+          {
+            "str": "“You tempt me, father …",
+            "ref": 17252
+          },
+          {
+            "str": "“If then thou art …",
+            "ref": 17270
+          },
+          {
+            "str": "“O favour’d of the skies …",
+            "ref": 17276
+          },
+          {
+            "str": "Thus spoke …",
+            "ref": 17289
+          },
+          {
+            "str": "To whom the latent god …",
+            "ref": 17300
+          },
+          {
+            "str": "He said, then took …",
+            "ref": 17310
+          },
+          {
+            "str": "Thus having said …",
+            "ref": 17340
+          },
+          {
+            "str": "Unseen by these, the king …",
+            "ref": 17350
+          },
+          {
+            "str": "As when a wretch (who, conscious …",
+            "ref": 17356
+          },
+          {
+            "str": "“Ah think …",
+            "ref": 17364
+          },
+          {
+            "str": "“For him through hostile camps …",
+            "ref": 17388
+          },
+          {
+            "str": "“Think of thy father …",
+            "ref": 17392
+          },
+          {
+            "str": "These words soft …",
+            "ref": 17400
+          },
+          {
+            "str": "Satiate at length …",
+            "ref": 17413
+          },
+          {
+            "str": "“Alas, what weight …",
+            "ref": 17419
+          },
+          {
+            "str": "To whom the king: “O favour …",
+            "ref": 17459
+          },
+          {
+            "str": "“Move me no more, (Achilles …",
+            "ref": 17466
+          },
+          {
+            "str": "The sire obey …",
+            "ref": 17481
+          },
+          {
+            "str": "“If, in that gloom which never …",
+            "ref": 17500
+          },
+          {
+            "str": "He said, and, entering …",
+            "ref": 17506
+          },
+          {
+            "str": "“Such griefs, O king …",
+            "ref": 17539
+          },
+          {
+            "str": "He said, and, rising …",
+            "ref": 17545
+          },
+          {
+            "str": "“Permit me now …",
+            "ref": 17561
+          },
+          {
+            "str": "With that, Achilles bade …",
+            "ref": 17567
+          },
+          {
+            "str": "“If then thy will permit (the monarch …",
+            "ref": 17581
+          },
+          {
+            "str": "“This thy request (replied …",
+            "ref": 17590
+          },
+          {
+            "str": "Then gave his hand …",
+            "ref": 17592
+          },
+          {
+            "str": "Waked with the word …",
+            "ref": 17609
+          },
+          {
+            "str": "“Turn here your steps …",
+            "ref": 17626
+          },
+          {
+            "str": "In thronging crowds …",
+            "ref": 17632
+          },
+          {
+            "str": "The waves of people …",
+            "ref": 17645
+          },
+          {
+            "str": "First to the corse …",
+            "ref": 17654
+          },
+          {
+            "str": "Thus to her weeping …",
+            "ref": 17684
+          },
+          {
+            "str": "The mournful mother …",
+            "ref": 17686
+          },
+          {
+            "str": "Thus spoke …",
+            "ref": 17702
+          },
+          {
+            "str": "“Ah, dearest …",
+            "ref": 17706
+          },
+          {
+            "str": "So spoke the fair …",
+            "ref": 17725
+          },
+          {
+            "str": "He spoke, and, at his word …",
+            "ref": 17733
+          }
+        ]
+      }
+    ]
+  }
+]

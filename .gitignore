@@ -1,11 +1,15 @@
+# building with docker
+*.jks
+*.apk
+
 # things generated
 
-/sonnets_input_data/audio
-/sonnets_input_data/text/md.md
-/iliad_pope_page_without_audio/cuts
+/inputs/sonnets_input_data/audio
+/inputs/sonnets_input_data/text/md.md
+/inputs/iliad_pope_page_without_audio/cuts
 
 ## timings of words in audio
-/sonnets_input_data/joined.json
+/inputs/sonnets_input_data/joined.json
 
 ## dev-env
 /tauri_app/src-tauri/resource

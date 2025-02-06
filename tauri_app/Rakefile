@@ -1,0 +1,54 @@
+$PASS=ENV['JKS_PASS']
+$ANDROID_HOME=ENV['ANDROID_HOME']
+
+task :default do
+  sh 'deno task tauri dev'
+end
+
+task :after_init do
+  cfg = File.join __dir__, 'src-tauri/gen/android/app/src/main/AndroidManifest.xml'
+  text = File.read cfg
+
+  if text !~ /RECORD_AUDIO/
+    text.sub! '<manifest xmlns:android="http://schemas.android.com/apk/res/android">', <<~END.chomp
+      <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+          <uses-permission android:name="android.permission.RECORD_AUDIO" />
+          <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    END
+    File.write cfg, text
+  end
+
+  cfg = File.join __dir__, 'src-tauri/gen/android/app/src/main/res/values/strings.xml'
+  text = File.read cfg
+  text.sub! '<string name="app_name">quotation-app</string>', '<string name="app_name">Quotation</string>'
+  File.write cfg, text
+end
+
+task :have_key do
+  next if File.exist? '../jks.jks'
+
+  sh <<~END.lines.map(&:strip).join(' ')
+  keytool -genkeypair -v
+    -keystore ../jks.jks
+    -keyalg RSA
+    -keysize 2048
+    -validity 10000
+    -storepass #$PASS
+    -keypass #$PASS
+    -dname "CN=example.com, OU=IT, O=Company, L=City, ST=State, C=US"
+    -alias new-key-alias
+  END
+end
+
+task :build do
+  sh 'deno task tauri android build'
+end
+
+task :sign do
+  sh %'#$ANDROID_HOME/build-tools/33.0.0/apksigner sign --ks ../jks.jks --ks-pass pass:#$PASS --v2-signing-enabled true src-tauri/gen/android/app/build/outputs/apk/universal/release/app-universal-release-unsigned.apk'
+  # sh %'#$ANDROID_HOME/build-tools/35.0.0/apksigner verify src-tauri/gen/android/app/build/outputs/apk/universal/release/app-universal-release-unsigned.apk'
+end
+
+task :push do
+  sh 'adb install src-tauri/gen/android/app/build/outputs/apk/universal/release/app-universal-release-unsigned.apk'
+end

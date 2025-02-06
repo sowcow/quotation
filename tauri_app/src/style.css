@@ -1,0 +1,36 @@
+button {
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+.toc {
+  font-family: 'Courier New', monospace;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.toc h1, .toc h2 {
+  margin: 0;
+  padding: 0;
+}
+.toc h2 {
+  margin-left: 10px;
+}
+.toc p {
+  margin-left: 40px;
+}
+
+/*container it is*/
+body {
+	white-space: pre-wrap;
+}
+
+span.play {
+	outline: solid 3px orange;
+}
