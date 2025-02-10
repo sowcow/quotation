@@ -76,7 +76,7 @@ WORKDIR /app/tauri_app
 
 RUN git clone https://github.com/sowcow/quotation /whole-app
 WORKDIR /whole-app
-RUN git fetch origin && git reset --hard 700e338888785a6e991060d96f5c644e3bf7d1cc
+RUN git fetch origin && git reset --hard 470268b25cb4e984b853c82c29e1babd84ccf2fb
 RUN mkdir -p /app
 RUN mv /whole-app/tauri_app /app
 WORKDIR /app/tauri_app

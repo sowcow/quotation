@@ -32,19 +32,20 @@ task :have_key do
     next
   else
     puts '  is missing'
-    File.unlink $JKS if File.exist? $JKS
+    # File.unlink $JKS if File.exist? $JKS # omg
   end
 
   sh <<~END.lines.map(&:strip).join(' ')
   keytool -genkeypair -v
-    -keystore #$JKS
+    -keystore #$JKS-omg
     -keyalg RSA
     -keysize 2048
     -validity 10000
     -storepass #$JKS_PASS
     -keypass #$JKS_PASS
     -dname "CN=example.com, OU=IT, O=Company, L=City, ST=State, C=US"
-    -alias new-key-alias
+    -alias new-key-alias &&\
+    mv #$JKS-omg #$JKS
   END
 end
 
