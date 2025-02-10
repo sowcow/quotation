@@ -36,7 +36,7 @@ Produce apk file:
 - `touch signed.apk` - this file will be replaced by the app build if all goes right
 - `touch jks.jks`
 - assuming current dir contains `resources/`
-- `docker run -e JKS_PASS -v "$(pwd)/resources:/app/resources" -v "$(pwd)/jks.jks:/app/jks.jks" -v "$(pwd)/signed.apk:/app/signed.apk" ghcr.io/sowcow/quotation-build:latest sh -c "rake reg_make"
+- `docker run -e JKS_PASS -v "$(pwd)/resources:/app/resources" -v "$(pwd)/jks.jks:/app/jks.jks" -v "$(pwd)/signed.apk:/app/signed.apk" ghcr.io/sowcow/quotation-build:latest sh -c "rake reg_make"`
 - NOTE: docker way of building apk may fail in case of very big audiobooks
 
 Install apk file into the device by any way.
