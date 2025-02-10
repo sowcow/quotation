@@ -32,6 +32,7 @@ task :have_key do
     next
   else
     puts '  is missing'
+    File.unlink $JKS if File.exist? $JKS
   end
 
   sh <<~END.lines.map(&:strip).join(' ')
