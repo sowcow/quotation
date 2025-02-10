@@ -16,6 +16,7 @@ task :apk do
   END
 end
 
+desc 'push .apk into Android device connected by USB through adb'
 task :push do
   sh 'adb install signed.apk'
 end
@@ -30,4 +31,35 @@ task :i do
     /bin/bash
     "
   END
+end
+
+# static Dockerfile keeps it simple
+# not giving a thing for submodules too
+#
+desc 'generates Dockerfile for registry, builds image'
+task :reg_build do
+  text = File.read 'Dockerfile'
+
+  prefix = <<~END
+    #
+    # generated from Dockerfile, uses github as code source
+    #
+  END
+
+  postfix = <<~END
+    RUN git clone --depth=1 https://github.com/sowcow/quotation /whole-app
+    RUN mkdir -p /app
+    RUN mv /whole-app/tauri_app /app
+  END
+
+  text = [prefix, text, postfix] * "\n"
+
+  File.write 'registry.Dockerfile', text
+
+  sh <<~END.strip
+    docker build -f registry.Dockerfile -t quotation-build:latest .
+  END
+end
+
+task :reg_push do
 end

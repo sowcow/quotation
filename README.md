@@ -4,12 +4,13 @@ Simple mobile app to train pronunciation/recitation of poetry.
 Only Android build is available, iOS version needs investigation by somebody else.
 
 Initially ready to use app comes with public domain Shakespeare's Sonnets reading.
-Second use case is to produce own app with any text and audio of it's reading.
+Second use case is to produce own app with any text and audio of reading that roughly aligns with it, with possibly some added or missing short segments.
 
 <p align="center">
-  <img src="visuals/toc.png?raw=true" alt="Table of contents view" width="45%" style="display:inline-block; margin-right:10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); border-radius: 8px;" />
-  <img src="visuals/main.png?raw=true" alt="Main view" width="45%" style="display:inline-block; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); border-radius: 8px;" />
+  <img src="visuals/toc.png?raw=true" alt="Table of contents view" width="45%" style="display:inline-block; margin-right:10px;" />
+  <img src="visuals/main.png?raw=true" alt="Main view" width="45%" style="display:inline-block;" />
 </p>
+
 
 Features/Usage:
 - start with table of contents to navigate
@@ -27,8 +28,8 @@ In my case I use audio file downloaded by Libation and corresponding text found 
 Then I add headers markers into the text for table of contents.
 
 - `export JKS_PASS=aoeuaoeu` - this should be enough for own usage (alternatively `have_key` and `sign` steps can be removed from `Rakefile` to do it manually)
-- [ ] TODO: `<link>` use steps from that repo to produce `resources/` dir
-- [ ] TODO: `docker ...` to produce .apk
+- https://github.com/sowcow/quotation-align use steps from the repo to produce `resources/` dir
+- produce .apk: `docker run -e JKS_PASS -v "$(pwd)/resources:/app/resources" -v "$(pwd)/jks.jks:/app/jks.jks" -v "$(pwd)/signed.apk:/app/signed.apk" quotation-build:latest sh -c "rake reg_make"` (TODO: GHCR)
 - install .apk into the device, use the app
 
 ## Development

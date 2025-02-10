@@ -1,4 +1,5 @@
-$PASS=ENV['JKS_PASS']
+$JKS=ENV['JKS'] || '../jks.jks'
+$JKS_PASS=ENV['JKS_PASS']
 $ANDROID_HOME=ENV['ANDROID_HOME']
 
 task :default do
@@ -25,16 +26,16 @@ task :after_init do
 end
 
 task :have_key do
-  next if File.exist? '../jks.jks'
+  next if File.exist? $JKS
 
   sh <<~END.lines.map(&:strip).join(' ')
   keytool -genkeypair -v
-    -keystore ../jks.jks
+    -keystore #$JKS
     -keyalg RSA
     -keysize 2048
     -validity 10000
-    -storepass #$PASS
-    -keypass #$PASS
+    -storepass #$JKS_PASS
+    -keypass #$JKS_PASS
     -dname "CN=example.com, OU=IT, O=Company, L=City, ST=State, C=US"
     -alias new-key-alias
   END
@@ -45,10 +46,21 @@ task :build do
 end
 
 task :sign do
-  sh %'#$ANDROID_HOME/build-tools/33.0.0/apksigner sign --ks ../jks.jks --ks-pass pass:#$PASS --v2-signing-enabled true src-tauri/gen/android/app/build/outputs/apk/universal/release/app-universal-release-unsigned.apk'
+  sh %'#$ANDROID_HOME/build-tools/33.0.0/apksigner sign --ks #$JKS --ks-pass pass:#$JKS_PASS --v2-signing-enabled true src-tauri/gen/android/app/build/outputs/apk/universal/release/app-universal-release-unsigned.apk'
   # sh %'#$ANDROID_HOME/build-tools/35.0.0/apksigner verify src-tauri/gen/android/app/build/outputs/apk/universal/release/app-universal-release-unsigned.apk'
 end
 
 task :push do
   sh 'adb install src-tauri/gen/android/app/build/outputs/apk/universal/release/app-universal-release-unsigned.apk'
+end
+
+task :reg_make do
+  sh <<~END.strip
+    rm -rf src-tauri/gen &&\
+    deno task tauri android init && rake after_init &&\
+    rake have_key &&\
+    rake build &&\
+    rake sign &&\
+    cp src-tauri/gen/android/app/build/outputs/apk/universal/release/app-universal-release-unsigned.apk ../signed.apk
+  END
 end
