@@ -6,8 +6,10 @@ Only Android build is available, iOS version needs investigation by somebody els
 Initially ready to use app comes with public domain Shakespeare's Sonnets reading.
 Second use case is to produce own app with any text and audio of it's reading.
 
-![Table of contents view](visuals/toc.png?raw=true)
-![Main view](visuals/main.png?raw=true)
+<p align="center">
+  <img src="visuals/toc.png?raw=true" alt="Table of contents view" width="45%" style="display:inline-block; margin-right:10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); border-radius: 8px;" />
+  <img src="visuals/main.png?raw=true" alt="Main view" width="45%" style="display:inline-block; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); border-radius: 8px;" />
+</p>
 
 Features/Usage:
 - start with table of contents to navigate
