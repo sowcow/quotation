@@ -45,7 +45,7 @@ task :have_key do
     -keypass #$JKS_PASS
     -dname "CN=example.com, OU=IT, O=Company, L=City, ST=State, C=US"
     -alias new-key-alias &&\
-    mv #$JKS-omg #$JKS
+    cp #$JKS-omg #$JKS
   END
 end
 
