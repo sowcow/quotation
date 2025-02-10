@@ -57,6 +57,7 @@ end
 task :reg_make do
   sh <<~END.strip
     rm -rf src-tauri/gen &&\
+    deno install &&\
     deno task tauri android init && rake after_init &&\
     rake have_key &&\
     rake build &&\

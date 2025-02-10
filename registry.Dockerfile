@@ -74,6 +74,9 @@ RUN yes | sdkmanager --licenses \
 
 WORKDIR /app/tauri_app
 
-RUN git clone --depth=1 https://github.com/sowcow/quotation /whole-app
+RUN git clone https://github.com/sowcow/quotation /whole-app
+WORKDIR /whole-app
+RUN git fetch origin && git reset --hard 699a3b69015fd133c58438b44afa32347da69c90
 RUN mkdir -p /app
 RUN mv /whole-app/tauri_app /app
+WORKDIR /app/tauri_app

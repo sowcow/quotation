@@ -46,10 +46,15 @@ task :reg_build do
     #
   END
 
+  hash = `curl -s https://api.github.com/repos/sowcow/quotation/commits/master | jq -r '.sha'`.strip
+
   postfix = <<~END
-    RUN git clone --depth=1 https://github.com/sowcow/quotation /whole-app
+    RUN git clone https://github.com/sowcow/quotation /whole-app
+    WORKDIR /whole-app
+    RUN git fetch origin && git reset --hard #{hash}
     RUN mkdir -p /app
     RUN mv /whole-app/tauri_app /app
+    WORKDIR /app/tauri_app
   END
 
   text = [prefix, text, postfix] * "\n"
