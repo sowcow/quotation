@@ -25,12 +25,21 @@ Shakespeare's Sonnets app version download page: https://github.com/sowcow/quota
 
 This is the most generic use case.
 In my case I use audio file downloaded by Libation and corresponding text found on the internet.
-Then I add headers markers into the text for table of contents.
 
-- `export JKS_PASS=aoeuaoeu` - this should be enough for own usage (alternatively `have_key` and `sign` steps can be removed from `Rakefile` to do it manually)
+First, you need to add headers markers into the text for table of contents.
+
+Then produce resources dir:
 - https://github.com/sowcow/quotation-align use steps from the repo to produce `resources/` dir
-- produce .apk: `docker run -e JKS_PASS -v "$(pwd)/resources:/app/resources" -v "$(pwd)/jks.jks:/app/jks.jks" -v "$(pwd)/signed.apk:/app/signed.apk" quotation-build:latest sh -c "rake reg_make"` (TODO: GHCR)
-- install .apk into the device, use the app
+
+Produce apk file:
+- `export JKS_PASS=aoeuaoeu` - this should be enough for own usage (alternatively `have_key` and `sign` steps can be removed from `Rakefile` to do it manually)
+- `touch signed.apk` - this file will be replaced by the app build if all goes right
+- `touch jks.jks`
+- assuming current dir contains `resources/`
+- `docker run -e JKS_PASS -v "$(pwd)/resources:/app/resources" -v "$(pwd)/jks.jks:/app/jks.jks" -v "$(pwd)/signed.apk:/app/signed.apk" ghcr.io/sowcow/quotation-build:latest sh -c "rake reg_make"
+- NOTE: docker way of building apk may fail in case of very big audiobooks
+
+Install apk file into the device by any way.
 
 ## Development
 

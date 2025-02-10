@@ -66,5 +66,10 @@ task :reg_build do
   END
 end
 
-task :reg_push do
-end
+# docker run -e JKS_PASS -v "$(pwd)/resources:/app/resources" -v "$(pwd)/jks.jks:/app/jks.jks" -v "$(pwd)/signed.apk:/app/signed.apk" quotation-build:latest sh -c "rake reg_make"
+#
+# docker tag <local-image> ghcr.io/<your-username>/<repository>:<tag>
+# docker push ghcr.io/<your-username>/<repository>:<tag>
+#
+# task :reg_push do
+# end

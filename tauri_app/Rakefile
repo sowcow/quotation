@@ -1,4 +1,4 @@
-$JKS=ENV['JKS'] || '../jks.jks'
+$JKS=File.expand_path(ENV['JKS'] || '../jks.jks')
 $JKS_PASS=ENV['JKS_PASS']
 $ANDROID_HOME=ENV['ANDROID_HOME']
 
@@ -26,7 +26,13 @@ task :after_init do
 end
 
 task :have_key do
-  next if File.exist? $JKS
+  puts "Key file: #$JKS"
+  if File.size? $JKS
+    puts '  is present'
+    next
+  else
+    puts '  is missing'
+  end
 
   sh <<~END.lines.map(&:strip).join(' ')
   keytool -genkeypair -v
